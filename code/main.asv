@@ -1,6 +1,12 @@
+initCobraToolbox;
+
 % model reconstruction from kegg and metacyc
 proteinFastaFile= fullfile('..', 'data', 'ncbi', 'protein.faa');
 draft= draftReconstructionKeggMetacyc(proteinFastaFile);
+
+% mapping model.mets to the corresponding Bigg ids
+mappingFile= fullfile('..', 'data', 'mets', 'metacyc_p_bigg.tsv');
+model= addBiggIds(draft , mappingFile, outputModel);
 
 % exchange reactions
 exchange2lbDict= dictionary({'WATER'}, -10, {'PROTON'}, -10, {'Pi'}, -10, ...
@@ -8,7 +14,7 @@ exchange2lbDict= dictionary({'WATER'}, -10, {'PROTON'}, -10, {'Pi'}, -10, ...
     -2, {'MG+2'}, -10, {'C00205'}, -80, {'OXYGEN-MOLECULE'}, -10);
 model= modifyExchangeRxns(model, exchange2lbDict);
 
-model= addBiomassRxn(model, fullfile('..', 'data', 'biomass_all.tsv'));
-
-
-
+% adding biomass reaction
+biomassFile= fullfile('..', 'data', 'biomass_curated.tsv');
+biomassModelSavePath= fullfile('..', 'data', 'models', 'c_ohadii_biomass_100_3k.mat');
+model= addBiomassRxn(model, biomassFile, biomassModelSavePath);
