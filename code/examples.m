@@ -10,8 +10,3 @@ model= modifyExchangeRxns(model, exchange2lbDict);
 
 model= addBiomassRxn(model, fullfile('..', 'data', 'biomass_all.tsv'));
 
-
-%%
-clc;clear;
-model= readCbModel('../models/eciCO1515_hetero.xml');
-
