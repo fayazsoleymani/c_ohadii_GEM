@@ -17,4 +17,7 @@ c_ohadii_GEM
 ### Installation and Requirements
 Ensure that you have [RAVEN](https://github.com/SysBioChalmers/RAVEN), [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/index.html), and the [GUROBI](https://www.gurobi.com/) optimizer installed on your device.
 
+### Citation
+TODO
+
 
