@@ -7,10 +7,14 @@ Here, the project's directory structure is illustrated:
 ```
 c_ohadii_GEM
 ├── code
-│   ├── functions
-│   └── examples.m
-├── data
-├── models
+│   ├── functions      # contains the implementation of the main functions
+│   └── examples.m     # provides examples of how to use the functions
+├── data               # the data, used or generated in the project
+├── models             # the final conventional and enzyme-constrained GEMs under different growth conditions,
+                       # available in both MATLAB and SBML formats
 ```
-The ```code/``` folder contains the implementation of the main functions, located in the ```functions/``` directory and the ```example.m``` file provides examples of how to use these functions. The ```model/``` directory includes the final conventional and enzyme-constrained GEMs under four different growth conditions, available in both MATLAB and SBML formats. The ```data/``` folder contains the data, used or generated in the project.
+
+### Installation and Requirements
+Ensure that you have [RAVEN](https://github.com/SysBioChalmers/RAVEN), [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/index.html), and the [GUROBI](https://www.gurobi.com/) optimizer installed on your device.
+
 
