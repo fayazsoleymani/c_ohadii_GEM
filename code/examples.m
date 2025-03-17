@@ -26,7 +26,7 @@ predefinedCompartments= readtable(fullfile('..', 'data', 'genes', ...
     'predefined_rxn_comps_clean.csv'), 'Delimiter', ',', ...
     'VariableNamingRule', 'preserve');
 
-model= compartmentalize_first_v2(model, GSS, 0.25, 'one', predefinedCompartments);
+model= compartmentalize_first(model, GSS, 0.25, 'one', predefinedCompartments);
 
 solutionAfter= checkBiomassProduction(model, 'one', false);
 
