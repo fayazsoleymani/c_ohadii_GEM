@@ -10,7 +10,8 @@ c_ohadii_GEM
 │   ├── functions      # contains the implementation of the main functions
 │   └── examples.m     # provides examples of how to use the functions
 ├── data               # the data, used or generated in the project
-├── models             # the final conventional and enzyme-constrained GEMs under different growth conditions,
+├── models             # the final conventional and enzyme-constrained GEMs
+                       # under different growth conditions,
                        # available in both MATLAB and SBML formats
 ```
 
