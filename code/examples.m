@@ -30,5 +30,7 @@ model= compartmentalize_first(model, GSS, 0.25, 'one', predefinedCompartments);
 
 solutionAfter= checkBiomassProduction(model, 'one', false);
 
-%%
+%% MILP problem
+
+model= compartmentalize_second_v2(model, 'one', 0.1, 1, predefinedRxnComps);
 
