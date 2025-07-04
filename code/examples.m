@@ -36,3 +36,6 @@ model= compartmentalize_second_v2(model, 'one', 0.1, 1, predefinedRxnComps);
 %% SBC elimination
 [model, eliminationResults]= eliminateSBCs(model);
 
+%% adding some annotations for the metabolites to the model
+model= addMetsAnnotations(model, annotationfilePath);
+
