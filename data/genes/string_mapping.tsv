@@ -1,0 +1,1038 @@
+#queryIndex	queryItem	stringId	identity	bitscore	preferredName	annotation
+1	KAI7844575.1	3076.A0A2P6TWK9	97.8	768.5	C2E21_3143	Phosphoglycerate kinase; Belongs to the phosphoglycerate kinase family.
+2	KAI7845320.1	3076.A0A2P6TMX8	72.9	1248.0	C2E21_5921	alpha-1,2-Mannosidase; Belongs to the glycosyl hydrolase 47 family.
+3	KAI7842877.1	3076.A0A2P6TH00	83.4	780.4	C2E21_7633	Cytochrome P450; Belongs to the cytochrome P450 family.
+4	KAI7842249.1	3076.A0A2P6U3D6	79.4	349.7	C2E21_1286	3-oxoacyl-[acyl-carrier] reductase 4-like.
+5	KAI7841816.1	3076.A0A2P6TYP0	91.7	718.4	C2E21_2432	Sulfate ABC transporter ATP-binding isoform A.
+6	KAI7840344.1	3076.A0A2P6TBY6	88.4	635.6	C2E21_9283	MPBQ MSBQ methyltransferase.
+7	KAI7838733.1	3076.A0A2P6TUA3	86.5	709.1	C2E21_3712	3-oxoacyl-[acyl-carrier] synthase chloroplastic isoform B; Belongs to the thiolase-like superfamily. Beta-ketoacyl-ACP synthases family.
+8	KAI7845118.1	3076.A0A2P6U3E8	84.4	676.4	C2E21_0877	Agmatine deiminase.
+9	KAI7836121.1	3076.A0A2P6TGV5	85.2	1176.0	C2E21_7716	Serine threonine-kinase.
+10	KAI7836818.1	3076.A0A2P6THS2	94.1	1410.2	C2E21_7326	Vacuolar proton ATPase a3-like.
+11	KAI7839314.1	3076.A0A2P6TR37	95.5	1163.7	PFP-BETA	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta; Catalytic subunit of pyrophosphate--fructose 6-phosphate 1- phosphotransferase. Catalyzes the phosphorylation of D-fructose 6- phosphate, the first committing step of glycolysis. Uses inorganic phosphate (PPi) as phosphoryl donor instead of ATP like common ATP- dependent phosphofructokinases (ATP-PFKs), which renders the reaction reversible, and can thus function both in glycolysis and gluconeogenesis.
+12	KAI7840544.1	3076.A0A2P6TEP5	90.5	995.0	C2E21_8464	Glycosyltransferase LARGE2.
+13	KAI7836553.1	3076.A0A2P6TH67	95.6	408.3	C2E21_7673	PMSR domain-containing protein.
+14	KAI7846293.1	3076.A0A2P6TE26	94.6	1421.0	C2E21_8565	Cullin-1; Belongs to the cullin family.
+15	KAI7845556.1	3076.A0A2P6TDG1	83.3	576.2	C2E21_8826	Putative ethanolamine kinase.
+16	KAI7844740.1	3076.A0A2P6TNC1	74.5	625.2	C2E21_5380	Putative mannitol dehydrogenase.
+17	KAI7840509.1	3076.A0A2P6TZ05	94.7	752.3	C2E21_2569	Aspartate aminotransferase.
+18	KAI7843666.1	3076.A0A2P6TUY5	91.9	749.6	C2E21_3401	Dual specificity kinase.
+19	KAI7842359.1	3076.A0A2P6TZG3	82.3	929.5	C2E21_2088	Apocarotenoid-15,15-oxygenase.
+20	KAI7844404.1	3076.A0A2P6U3D2	93.5	867.8	C2E21_1196	Apyrase 2-like; Belongs to the GDA1/CD39 NTPase family.
+21	KAI7835402.1	3076.A0A2P6TH19	94.4	1176.4	C2E21_7692	Glyceraldehyde-3-phosphate cytosolic; Belongs to the glyceraldehyde-3-phosphate dehydrogenase family.
+22	KAI7839437.1	3076.A0A2P6TTV5	81.4	872.8	C2E21_4382	Major facilitator transporter.
+23	KAI7843640.1	3076.A0A2P6TJF9	84.1	271.2	C2E21_7049	Glutathione peroxidase; Belongs to the glutathione peroxidase family.
+24	KAI7838262.1	3076.A0A2P6TG45	80.6	955.7	C2E21_8026	Purple acid phosphatase.
+25	KAI7841551.1	3076.A0A2P6TWC8	78.3	458.8	C2E21_2930	5-nucleotidase.
+26	KAI7841330.1	3076.A0A2P6TXU8	93.3	402.1	C2E21_2388	Ankyrin repeat.
+27	KAI7845845.1	3076.A0A2P6TPU9	89.7	496.9	C2E21_5089	Serine incorporator.
+28	KAI7838973.1	3076.A0A2P6TFJ6	91.2	940.3	C2E21_8039	L-galactono-1,4-lactone mitochondrial-like.
+29	KAI7836988.1	3076.A0A2P6TCJ8	91.9	537.7	C2E21_9039	Ribokinase; Catalyzes the phosphorylation of ribose at O-5 in a reaction requiring ATP and magnesium. The resulting D-ribose-5-phosphate can then be used either for sythesis of nucleotides, histidine, and tryptophan, or as a component of the pentose phosphate pathway.
+30	KAI7843569.1	3076.A0A2P6TEW4	87.8	617.1	C2E21_8260	Putative prolyl 4-hydroxylase 6.
+31	KAI7836238.1	3076.A0A2P6TVP1	96.9	791.6	C2E21_3022	Aspartate aminotransferase.
+32	KAI7846013.1	3076.A0A2P6TNV6	84.8	458.4	C2E21_5344	Carbonic anhydrase.
+33	KAI7838960.1	3076.A0A2P6U5H6	94.2	992.6	C2E21_0152	Phosphofructokinase family.
+34	KAI7844741.1	3076.A0A2P6TNF7	97.7	275.0	C2E21_5381	Ubiquitin-conjugating enzyme E2 T; Belongs to the ubiquitin-conjugating enzyme family.
+35	KAI7838875.1	3076.A0A2P6TDP3	60.9	311.2	C2E21_8846	mRNA-decapping enzyme.
+36	KAI7845087.1	3076.A0A2P6TKS7	85.9	948.7	C2E21_6447	Aldehyde dehydrogenase; Belongs to the aldehyde dehydrogenase family.
+37	KAI7837566.1	3076.A0A2P6U382	89.8	345.1	C2E21_0910	Glutathione peroxidase; Belongs to the glutathione peroxidase family.
+38	KAI7838852.1	3076.A0A2P6TGV2	91.6	1018.8	C2E21_7702	Glucose-6-phosphate 1-dehydrogenase; Catalyzes the rate-limiting step of the oxidative pentose- phosphate pathway, which represents a route for the dissimilation of carbohydrates besides glycolysis.
+39	KAI7840326.1	3076.A0A2P6TBW4	95.1	421.0	C2E21_9267	Superoxide dismutase; Destroys radicals which are normally produced within the cells and which are toxic to biological systems. Belongs to the iron/manganese superoxide dismutase family.
+40	KAI7837736.1	3076.A0A2P6TWX2	89.7	631.3	C2E21_2852	Sterol-4-alpha-carboxylate 3-decarboxylating; Belongs to the 3-beta-HSD family.
+41	KAI7836709.1	3076.A0A2P6TVN9	87.9	941.0	C2E21_3049	Amidase signature enzyme.
+42	KAI7841501.1	3076.A0A2P6TB29	78.0	1490.7	C2E21_9555	Taurine catabolism dioxygenase.
+43	KAI7843170.1	3076.A0A2P6TH58	91.7	881.7	C2E21_7582	Glutamate dehydrogenase; Belongs to the Glu/Leu/Phe/Val dehydrogenases family.
+44	KAI7835503.1	3076.A0A2P6TWH1	95.3	552.0	C2E21_3278	Glutamine amidotransferase.
+45	KAI7839845.1	3076.A0A2P6U0I9	83.6	991.5	C2E21_2019	Fatty acid amide hydrolase.
+46	KAI7835882.1	3076.A0A2P6U4H1	90.6	419.9	C2E21_0684	Ubiquitin carboxyl-terminal hydrolase 22 isoform B; Belongs to the peptidase C19 family.
+47	KAI7835791.1	3076.A0A2P6TQR0	92.3	569.3	C2E21_4556	Pyruvate kinase; Belongs to the pyruvate kinase family.
+48	KAI7846414.1	3076.A0A2P6TKU6	93.5	780.0	C2E21_6133	DNA replication factor C complex subunit 5.
+49	KAI7838260.1	3076.A0A2P6TFV5	87.0	1088.9	C2E21_8024	Acyl-coenzyme A oxidase; Belongs to the acyl-CoA oxidase family.
+50	KAI7837126.1	3076.A0A2P6TZ81	92.9	753.1	C2E21_2351	Betaine aldehyde dehydrogenase isoform A; Belongs to the aldehyde dehydrogenase family.
+51	KAI7844522.1	3076.A0A2P6TX54	86.5	1311.6	C2E21_3095	Root UVB sensitive 4.
+52	KAI7844416.1	3076.A0A2P6U2U0	96.1	954.9	C2E21_1204	Serine hydroxymethyltransferase; Interconversion of serine and glycine. Belongs to the SHMT family.
+53	KAI7839287.1	3076.A0A2P6TRA9	90.0	567.8	C2E21_4775	Phosphatase chloroplastic.
+54	KAI7842899.1	3076.A0A2P6TQW6	93.0	419.5	C2E21_4499	Flagellar associated; Belongs to the GST superfamily.
+55	KAI7839157.1	3076.A0A2P6TN19	60.1	408.7	C2E21_6039	Lysine-specific demethylase JMJD5 isoform X1.
+56	KAI7840385.1	3076.A0A2P6TLA4	87.9	904.4	C2E21_6184	HBS1 isoform X1 isoform B.
+57	KAI7839836.1	3076.A0A2P6TVB6	68.7	8155.4	C2E21_3773	Type I fatty acid.
+58	KAI7839004.1	3076.A0A2P6TWE9	81.9	611.7	C2E21_2892	Hydroxyneurosporene methyltransferase.
+59	KAI7844816.1	3076.A0A2P6TK10	91.2	671.8	C2E21_6769	Fructose-1,6-bisphosphate aldolase.
+60	KAI7843850.1	3076.A0A2P6TQ35	83.4	1658.3	C2E21_5257	Puromycin-sensitive aminopeptidase isoform X1 isoform B.
+61	KAI7836464.1	3076.A0A2P6TNG4	76.9	1111.3	C2E21_5618	Putative beta-D-xylosidase 7; Belongs to the glycosyl hydrolase 3 family.
+62	KAI7839938.1	3076.A0A2P6TC44	85.4	721.1	C2E21_9213	Photosystem I reaction center subunit XI.
+63	KAI7845413.1	3076.A0A2P6TEP2	81.6	1567.7	C2E21_8474	ATP-binding cassette sub-family B member mitochondrial isoform A.
+64	KAI7839336.1	3076.A0A2P6TV56	86.6	480.3	C2E21_3599	Haloacid dehalogenase-like hydrolase domain-containing isoform B.
+65	KAI7841688.1	3076.A0A2P6TLY0	64.4	1407.9	C2E21_5849	Serine threonine-kinase CTR1.
+66	KAI7843653.1	3076.A0A2P6TUK0	81.6	826.2	C2E21_3393	Sulfite mitochondrial.
+67	KAI7841367.1	3076.A0A2P6U127	89.4	942.6	C2E21_1669	Protoporphyrin IX magnesium chelatase.
+68	KAI7835473.1	3076.A0A2P6TDZ5	91.1	779.6	C2E21_8641	Cinnamyl alcohol dehydrogenase.
+69	KAI7836294.1	3076.A0A2P6TJB4	81.9	661.8	C2E21_6877	Palmitoyl-monogalactosyldiacylglycerol delta-7 chloroplastic; Belongs to the fatty acid desaturase type 1 family.
+70	KAI7845283.1	3076.A0A2P6TMX2	98.0	780.4	C2E21_5958	Protein-serine/threonine kinase.
+71	KAI7844083.1	3076.A0A2P6TV03	82.0	1937.2	C2E21_3326	Water chloroplastic isoform B.
+72	KAI7845817.1	3076.A0A2P6TFQ3	92.9	1793.9	C2E21_8118	Translation factor GUF1 homolog, chloroplastic; Promotes chloroplast protein synthesis. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+73	KAI7839659.1	3076.A0A2P6TY53	92.8	503.8	C2E21_2683	Adenylyl-sulfate kinase chloroplastic.
+74	KAI7840058.1	3076.A0A2P6TWI8	93.4	559.7	C2E21_2735	Aldo keto reductase.
+75	KAI7843138.1	3076.A0A2P6THJ9	75.9	1010.7	C2E21_7376	Serine threonine-kinase CTR1.
+76	KAI7846072.1	3076.A0A2P6TS62	88.1	806.2	C2E21_3819	Serine hydroxymethyltransferase; Interconversion of serine and glycine.
+77	KAI7835770.1	3076.A0A2P6TSG4	100.0	262.3	C2E21_3789	NADH dehydrogenase [ubiquinone] iron-sulfur mitochondrial-like; Belongs to the complex I 20 kDa subunit family.
+78	KAI7839353.1	3076.A0A2P6TXD9	80.6	379.8	C2E21_2443	Fidgetin 1.
+79	KAI7839395.1	3076.A0A2P6TSU7	70.7	628.6	C2E21_4345	Photosystem II 10 kDa chloroplastic.
+80	KAI7838708.1	3076.A0A2P6TV61	88.8	560.1	C2E21_3699	NADPH:quinone reductase.
+81	KAI7841385.1	3076.A0A2P6U195	93.0	812.4	C2E21_1684	Omega-3 fatty acid desaturase.
+82	KAI7845411.1	3076.A0A2P6TEP7	90.6	789.3	C2E21_8473	Molybdopterin biosynthesis CNX1.
+83	KAI7846153.1	3076.A0A2P6U3Y8	88.6	518.8	C2E21_0036	Glutathione gamma-glutamylcysteinyltransferase 1.
+84	KAI7840492.1	3076.A0A2P6TYY7	81.2	966.5	C2E21_2586	Sulfatase.
+85	KAI7844107.1	3076.A0A2P6TRH4	83.5	2962.9	C2E21_4482	Transcription factor jumonji domain.
+86	KAI7837532.1	3076.A0A2P6TSA9	75.1	723.8	C2E21_4293	Putative chlorophyll(Ide) b reductase chloroplastic isoform B.
+87	KAI7840378.1	3076.A0A2P6TPH7	82.3	2718.3	C2E21_4983	Baculoviral IAP repeat-containing 6-like.
+88	KAI7846469.1	3076.A0A2P6TQD8	79.4	1520.0	C2E21_5034	NADH dehydrogenase [ubiquinone] flavo mitochondrial.
+89	KAI7835908.1	3076.A0A2P6TSL3	98.6	1260.4	C2E21_4083	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial; Flavoprotein (FP) subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q).
+90	KAI7838609.1	3076.A0A2P6TIN0	86.5	943.0	C2E21_7124	Threonine dehydratase.
+91	KAI7844008.1	3076.A0A2P6U3N8	42.7	525.8	C2E21_0396	Ferric reductase.
+92	KAI7840743.1	3076.A0A2P6TDA9	96.7	879.8	C2E21_8757	3-oxoacyl-[acyl-carrier-protein] synthase; Belongs to the thiolase-like superfamily. Beta-ketoacyl-ACP synthases family.
+93	KAI7835395.1	3076.A0A2P6TDB7	78.9	716.8	C2E21_8806	Dihydrolipoyl dehydrogenase.
+94	KAI7836141.1	3076.A0A2P6TI98	86.4	851.7	C2E21_7470	Trans-2-enoyl-reductase.
+95	KAI7837592.1	3076.A0A2P6U2S5	62.1	453.4	C2E21_0894	D-lactate dehydrogenase.
+96	KAI7843662.1	3076.A0A2P6TUX9	74.9	594.3	C2E21_3399	3-ketoacyl-thiolase peroxisomal; Belongs to the thiolase-like superfamily. Thiolase family.
+97	KAI7846406.1	3076.A0A2P6TL81	78.6	788.1	C2E21_6139	Tyrosine decarboxylase 1-like.
+98	KAI7836607.1	3076.A0A2P6U0G1	78.3	845.5	C2E21_1792	Cytochrome P450; Belongs to the cytochrome P450 family.
+99	KAI7840659.1	3076.A0A2P6TP92	97.6	671.0	C2E21_5659	2-oxoisovalerate dehydrogenase subunit alpha; The branched-chain alpha-keto dehydrogenase complex catalyzes the overall conversion of alpha-keto acids to acyl-CoA and CO(2). It contains multiple copies of three enzymatic components: branched-chain alpha-keto acid decarboxylase (E1), lipoamide acyltransferase (E2) and lipoamide dehydrogenase (E3).
+100	KAI7839033.1	3076.A0A2P6TWI4	87.4	815.1	C2E21_3242	Serine threonine-kinase isoform A.
+101	KAI7835873.1	3076.A0A2P6U3T0	93.3	745.0	C2E21_0679	Pyruvate dehydrogenase E1 component subunit mitochondrial isoform B.
+102	KAI7843212.1	3076.A0A2P6THJ8	92.0	766.1	C2E21_7296	Mitochondrial.
+103	KAI7838568.1	3076.A0A2P6TNW3	68.2	398.7	C2E21_5546	Plastidial lipoyltransferase 2.
+104	KAI7835341.1	3076.A0A2P6TTC0	83.5	427.2	C2E21_3951	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides; Belongs to the cyclophilin-type PPIase family.
+105	KAI7839908.1	3076.A0A2P6U1C5	83.0	1034.6	C2E21_1363	Pyruvate dehydrogenase E1 beta subunit.
+106	KAI7844182.1	3076.A0A2P6TS60	90.9	1357.8	C2E21_3911	Amine oxidase.
+107	KAI7842613.1	3076.A0A2P6TSI6	95.6	846.7	C2E21_4236	Sulfate adenylyltransferase.
+108	KAI7842492.1	3076.A0A2P6TNB0	76.3	613.2	C2E21_5476	Class V aminotransferase.
+109	KAI7839129.1	3076.A0A2P6TD47	84.2	290.8	C2E21_8972	WD40 repeat.
+110	KAI7838123.1	3076.A0A2P6TPV8	76.1	667.9	C2E21_5099	Photosystem I reaction center subunit III.
+111	KAI7844306.1	3076.A0A2P6TYZ1	89.1	453.4	C2E21_2270	NAD-dependent dehydrogenase 2.
+112	KAI7843702.1	3076.A0A2P6TUL8	95.5	962.2	C2E21_3438	Alanine--glyoxylate aminotransferase 2-like protein mitochondrial.
+113	KAI7837638.1	3076.A0A2P6TK17	85.4	1480.7	C2E21_6538	Puromycin-sensitive aminopeptidase isoform X2.
+114	KAI7838954.1	3076.A0A2P6U3W4	87.4	446.8	C2E21_0149	Pyrroline-5-carboxylate reductase; Belongs to the pyrroline-5-carboxylate reductase family.
+115	KAI7840913.1	3076.A0A2P6THH0	92.5	677.2	C2E21_7656	Arsenite methyltransferase.
+116	KAI7840194.1	3076.A0A2P6U0A4	59.4	689.5	C2E21_1416	Ceramide kinase-like.
+117	KAI7835894.1	3076.A0A2P6U4I0	93.3	433.3	C2E21_0694	Uncharacterized protein.
+118	KAI7839976.1	3076.A0A2P6U237	84.2	611.7	C2E21_0808	Phosphatidylinositol:ceramide inositolphosphotransferase 1.
+119	KAI7839520.1	3076.A0A2P6TC93	80.1	634.0	C2E21_9172	Radical SAM domain-containing.
+120	KAI7840008.1	3076.A0A2P6TC65	93.7	1767.3	C2E21_9241	Putative glucan 1,3-alpha-glucosidase.
+121	KAI7845749.1	3076.A0A2P6TG03	97.7	594.0	C2E21_8172	Testosterone 17-beta-dehydrogenase 3.
+122	KAI7842680.1	3076.A0A2P6U1K2	95.6	531.6	C2E21_0959	Malate synthase; Belongs to the malate synthase family.
+123	KAI7845486.1	3076.A0A2P6TFX2	83.4	1129.0	C2E21_8082	Ubiquinone biosynthesis COQ4 mitochondrial.
+124	KAI7839639.1	3076.A0A2P6TJX3	86.8	231.9	C2E21_6685	Pyruvate:ferredoxin (Flavodoxin) oxidoreductase.
+125	KAI7840718.1	3076.A0A2P6TVM4	97.7	943.7	C2E21_3263	Elongation factor.
+126	KAI7837636.1	3076.A0A2P6TKH3	79.6	464.2	C2E21_6539	2-deoxy-D-gluconate 3-dehydrogenase.
+127	KAI7843095.1	3076.A0A2P6U2F4	54.3	631.7	C2E21_1083	RE1-silencing transcription factor-like.
+128	KAI7844105.1	3076.A0A2P6TQS8	92.2	539.3	C2E21_4481	Nudix hydrolase 8.
+129	KAI7846366.1	3076.A0A2P6TLK6	92.0	890.6	C2E21_6178	Malonyl--acyl carrier mitochondrial.
+130	KAI7845743.1	3076.A0A2P6TFL3	90.1	533.1	C2E21_8177	N-D-ribosylpurine ribohydrolase.
+131	KAI7837008.1	3076.A0A2P6TG93	98.3	369.4	C2E21_7923	Carotene isomerase.
+132	KAI7836323.1	3076.A0A2P6TJ39	86.6	1254.6	C2E21_6901	Acetolactate synthase; Belongs to the TPP enzyme family.
+133	KAI7844512.1	3076.A0A2P6TVU2	81.0	392.9	C2E21_3089	Manganese-dependent ADP-ribose CDP-alcohol diphosphatase.
+134	KAI7842957.1	3076.A0A2P6TJX4	75.3	734.6	C2E21_6627	Pyruvate decarboxylase 4.
+135	KAI7835759.1	3076.A0A2P6TST2	91.8	374.0	C2E21_3798	Beta-hydroxyacyl-ACP dehydratase.
+136	KAI7837378.1	3076.A0A2P6TDQ5	95.1	944.9	C2E21_8860	Agmatine deiminase.
+137	KAI7840986.1	3076.A0A2P6U3I9	99.2	270.8	C2E21_0234	Serine threonine-kinase CTR1; Belongs to the peptidase S1 family.
+138	KAI7837259.1	3076.A0A2P6TXT9	97.2	1000.3	C2E21_2030	Citrate synthase.
+139	KAI7838692.1	3076.A0A2P6U2S7	96.8	869.0	C2E21_0765	Citrate synthase; Belongs to the citrate synthase family.
+140	KAI7837493.1	3076.A0A2P6TNG3	93.4	495.7	C2E21_5576	GTP cyclohydrolase II.
+141	KAI7836555.1	3076.A0A2P6TH34	96.6	1003.4	C2E21_7674	NADP-specific glutamate dehydrogenase; Belongs to the Glu/Leu/Phe/Val dehydrogenases family.
+142	KAI7840764.1	3076.A0A2P6TDD0	95.8	720.3	C2E21_8763	Fructose-bisphosphate aldolase; Belongs to the class I fructose-bisphosphate aldolase family.
+143	KAI7835671.1	3076.A0A2P6TNG2	89.9	422.9	C2E21_5650	Peptidylprolyl isomerase.
+144	KAI7841826.1	3076.A0A2P6TXW8	84.3	986.1	C2E21_2425	5-nucleotidase; Belongs to the 5'-nucleotidase family.
+145	KAI7840431.1	3076.A0A2P6TIU0	75.8	2541.1	C2E21_6932	Cytochrome P450 chloroplastic isoform B.
+146	KAI7845903.1	3076.A0A2P6TPN7	96.8	765.4	C2E21_5037	Queuine tRNA-ribosyltransferase catalytic subunit 1; Catalytic subunit of the queuine tRNA-ribosyltransferase (TGT) that catalyzes the base-exchange of a guanine (G) residue with queuine (Q) at position 34 (anticodon wobble position) in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His and -Tyr), resulting in the hypermodified nucleoside queuosine (7-(((4,5-cis-dihydroxy-2- cyclopenten-1-yl)amino)methyl)-7-deazaguanosine). Catalysis occurs through a double-displacement mechanism. The nucleophile active site attacks the C1' of nucleotide 34 to detach the guanine base from the RNA, formi [...] 
+147	KAI7845889.1	3076.A0A2P6TPS0	86.0	725.3	C2E21_5046	Cystathionine beta-lyase.
+148	KAI7835734.1	3076.A0A2P6TID0	86.1	1034.6	C2E21_7274	Carotene epsilon-chloroplastic isoform B; Belongs to the cytochrome P450 family.
+149	KAI7837122.1	3076.A0A2P6TZA5	86.6	382.5	C2E21_2349	Acetyltransferase NSI isoform X2.
+150	KAI7843635.1	3076.A0A2P6TJ87	90.6	276.6	C2E21_7053	Ubiquitin-conjugating enzyme E2 28-like; Belongs to the ubiquitin-conjugating enzyme family.
+151	KAI7843948.1	3076.A0A2P6TQJ6	94.9	738.4	C2E21_5181	Serine threonine-kinase AFC3 isoform X1.
+152	KAI7838863.1	3076.A0A2P6TC17	74.4	490.7	C2E21_9189	Prostaglandin E synthase 2-like; Belongs to the peptidase S1 family.
+153	KAI7840876.1	3076.A0A2P6U0L3	83.5	1039.6	C2E21_1803	5-nucleotidase.
+154	KAI7839914.1	3076.A0A2P6TZJ4	91.5	495.7	C2E21_1369	Adenylate kinase; Belongs to the adenylate kinase family.
+155	KAI7845667.1	3076.A0A2P6TK03	71.5	217.6	C2E21_6806	PsbP domain-containing chloroplastic.
+156	KAI7838571.1	3076.A0A2P6TNY8	87.3	864.8	C2E21_5549	Enoyl-hydratase; Belongs to the enoyl-CoA hydratase/isomerase family.
+157	KAI7837625.1	3076.A0A2P6TKL3	97.2	973.8	C2E21_6549	Acetohydroxy acid isomeroreductase isoform B; Belongs to the ketol-acid reductoisomerase family.
+158	KAI7843867.1	3076.A0A2P6TQL2	99.0	219.2	C2E21_5245	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides; Belongs to the cyclophilin-type PPIase family.
+159	KAI7843157.1	3076.A0A2P6TGZ5	89.3	437.6	C2E21_7593	Lumen targeted.
+160	KAI7846263.1	3076.A0A2P6TJV6	89.4	1046.2	C2E21_6697	E3 ubiquitin-ligase UPL7.
+161	KAI7844693.1	3076.A0A2P6TZG1	92.7	508.4	C2E21_1973	Glucosidase 2 subunit beta.
+162	KAI7841917.1	3076.A0A2P6U0K1	88.4	1158.7	C2E21_1583	NADPH-cytochrome P450 reductase.
+163	KAI7846203.1	3076.A0A2P6TV24	82.5	859.8	C2E21_3552	ATP-NAD kinase isoform A.
+164	KAI7842101.1	3076.A0A2P6TN35	82.0	243.4	C2E21_5990	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides; Belongs to the cyclophilin-type PPIase family.
+165	KAI7846106.1	3076.A0A2P6U0Z3	97.1	260.8	C2E21_1713	EF-hand domain-containing 1.
+166	KAI7841591.1	3076.A0A2P6TX55	93.6	596.3	C2E21_2969	Very-long-chain 3-oxoacyl-reductase 1-like.
+167	KAI7838009.1	3076.A0A2P6U5J9	94.0	513.5	C2E21_0635	F1F0 ATP synthase gamma subunit.
+168	KAI7835457.1	3076.A0A2P6TG80	93.9	995.7	C2E21_7827	Multicopper oxidase; Belongs to the RNase T2 family.
+169	KAI7837959.1	3076.A0A2P6TLQ0	84.4	1148.3	C2E21_6315	Lysine-specific demethylase JMJ16.
+169	KAI7837959.1	3076.A0A2P6TLQ0	53.5	70.9	C2E21_6315	Lysine-specific demethylase JMJ16.
+170	KAI7845701.1	3076.A0A2P6TJN1	73.9	762.7	C2E21_6839	Photosystem II.
+171	KAI7846104.1	3076.A0A2P6U1C9	80.9	303.1	C2E21_1709	Aldo keto reductase.
+172	KAI7844594.1	3076.A0A2P6TU47	94.3	783.1	C2E21_3666	Fatty acid delta-12.
+173	KAI7837955.1	3076.A0A2P6TL70	87.2	731.5	C2E21_6317	Putative 2,3-bisphosphoglycerate-independent phosphoglycerate mutase isoform X2.
+174	KAI7841110.1	3076.A0A2P6TWA2	93.4	703.7	C2E21_2756	DnaJ-like protein.
+175	KAI7838599.1	3076.A0A2P6TIV7	84.8	525.4	C2E21_7133	Thymidine kinase; Belongs to the thymidine kinase family.
+176	KAI7841121.1	3076.A0A2P6TGC2	93.9	695.7	C2E21_7766	V-type proton ATPase subunit; Subunit of the integral membrane V0 complex of vacuolar ATPase. Vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells, thus providing most of the energy required for transport processes in the vacuolar system. Belongs to the V-ATPase V0D/AC39 subunit family.
+177	KAI7837616.1	3076.A0A2P6TJN0	84.7	2001.5	C2E21_6557	ABC transporter A family member 7-like isoform A.
+178	KAI7841778.1	3076.A0A2P6TCC0	92.6	1098.2	C2E21_9180	Chlorophyllide a oxygenase.
+179	KAI7836445.1	3076.A0A2P6TNE4	79.2	421.0	C2E21_5637	Serine threonine-kinase CTR1; Belongs to the RNase T2 family.
+180	KAI7837077.1	3076.A0A2P6THW9	91.3	1189.1	C2E21_7353	Malic enzyme.
+181	KAI7835279.1	3076.A0A2P6TVU0	96.5	689.9	C2E21_3071	Hydroxylamine reductase.
+182	KAI7837224.1	3076.A0A2P6TUM3	95.9	1184.9	C2E21_3626	Aspartate--tRNA ligase.
+183	KAI7838814.1	3076.A0A2P6U539	92.2	520.4	C2E21_0110	Glucose-6-phosphate 1-epimerase; Belongs to the glucose-6-phosphate 1-epimerase family.
+184	KAI7836349.1	3076.A0A2P6U4E0	89.6	678.7	C2E21_0458	Chorismate synthase.
+185	KAI7839672.1	3076.A0A2P6TZ22	99.4	644.8	C2E21_2675	Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of ATP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit.
+186	KAI7845496.1	3076.A0A2P6TN78	89.5	2363.2	C2E21_5419	Glutathione chloroplastic; Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family.
+187	KAI7846208.1	3076.A0A2P6TVC8	87.3	593.2	C2E21_3556	Fructokinase.
+188	KAI7841060.1	3076.A0A2P6U4I0	80.5	373.6	C2E21_0694	Uncharacterized protein.
+189	KAI7845494.1	3076.A0A2P6TTA9	34.7	254.6	C2E21_4350	FAD-dependent oxidoreductase.
+190	KAI7837291.1	3076.A0A2P6TRN4	96.9	539.3	C2E21_4843	Angio-associated migratory cell.
+191	KAI7837934.1	3076.A0A2P6TL29	93.4	931.8	C2E21_6334	5-nucleotidase domain-containing 4 isoform X2.
+192	KAI7845266.1	3076.A0A2P6TRW2	98.1	506.9	C2E21_4587	Ribulose-phosphate 3-chloroplastic.
+193	KAI7844572.1	3076.A0A2P6TVM1	98.7	327.0	C2E21_3140	Superoxide dismutase [Fe].
+194	KAI7842407.1	3076.A0A2P6TYT1	95.1	1027.7	C2E21_2043	tRNA-2-methylthio-N(6)-dimethylallyladenosin e synthase.
+195	KAI7844225.1	3076.A0A2P6TZ91	95.6	608.6	C2E21_2342	6-phosphogluconate dehydrogenase, decarboxylating; Belongs to the 6-phosphogluconate dehydrogenase family.
+196	KAI7844943.1	3076.A0A2P6U466	96.0	349.7	C2E21_0527	Ubiquitin-conjugating enzyme E2 20-like; Belongs to the ubiquitin-conjugating enzyme family.
+197	KAI7839165.1	3076.A0A2P6TMV2	87.9	1887.1	C2E21_6034	Calcium-translocating P-type PMCA-type; Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+198	KAI7845585.1	3076.A0A2P6TWR3	74.1	422.2	C2E21_2825	33kDa oxygen evolving of photosystem II.
+199	KAI7845326.1	3076.A0A2P6TMJ4	78.8	1157.5	C2E21_5915	Phosphatidylserine decarboxylase proenzyme 2-like isoform X1.
+200	KAI7844452.1	3076.A0A2P6TH25	97.4	235.3	C2E21_7521	Multifunctional methyltransferase subunit TRM112 At1g22270.
+201	KAI7838019.1	3076.A0A2P6U5M1	98.0	660.6	C2E21_0626	Glycerol-3-phosphate dehydrogenase [NAD(+)].
+202	KAI7837766.1	3076.A0A2P6TCK7	81.1	797.7	C2E21_9106	Glutamate dehydrogenase; Belongs to the Glu/Leu/Phe/Val dehydrogenases family.
+203	KAI7842679.1	3076.A0A2P6U1K2	97.8	556.2	C2E21_0959	Malate synthase; Belongs to the malate synthase family.
+204	KAI7837081.1	3076.A0A2P6THX8	68.6	463.8	C2E21_7350	Ubiquitin-conjugating enzyme E2 E1; Belongs to the ubiquitin-conjugating enzyme family.
+205	KAI7844482.1	3076.A0A2P6TH55	83.7	458.8	C2E21_7600	Triosephosphate cytosolic.
+206	KAI7837331.1	3076.A0A2P6TWU8	78.5	860.5	C2E21_3160	Cytochrome P450; Belongs to the cytochrome P450 family.
+207	KAI7837600.1	3076.A0A2P6U4G8	97.3	1155.2	C2E21_0015	Histone H2B; Belongs to the histone H2B family.
+208	KAI7840665.1	3076.A0A2P6TRV7	87.9	1068.1	C2E21_4605	tRNA uridine 5-carboxymethylaminomethyl modification enzyme.
+209	KAI7844946.1	3076.A0A2P6U5B3	93.3	694.9	C2E21_0515	Histidinol-phosphate aminotransferase chloroplastic.
+210	KAI7846300.1	3076.A0A2P6TGH4	97.1	477.6	C2E21_7887	Serine threonine-kinase CTR1.
+211	KAI7844346.1	3076.A0A2P6TXR3	84.1	761.1	C2E21_2235	Flavin-containing monooxygenase.
+212	KAI7837982.1	3076.A0A2P6THT4	73.1	414.5	C2E21_7332	Serine threonine-kinase CTR1.
+213	KAI7837194.1	3076.A0A2P6U2Q3	72.0	1236.5	C2E21_1247	Histone-lysine N-methyltransferase ASHH2.
+214	KAI7844048.1	3076.A0A2P6U423	88.0	1414.8	C2E21_0495	Serine threonine-kinase dyrk2.
+215	KAI7839042.1	3076.A0A2P6TX09	76.9	666.4	C2E21_3231	Cystathionine gamma-synthase.
+216	KAI7842047.1	3076.A0A2P6U3H4	83.3	1869.4	C2E21_0924	Leucyl-cystinyl aminopeptidase.
+217	KAI7843890.1	3076.A0A2P6TPU7	95.3	236.9	C2E21_5226	Photosystem I reaction center subunit VI-chloroplastic-like.
+218	KAI7840333.1	3076.A0A2P6TBQ8	86.1	814.7	C2E21_9273	Uroporphyrinogen decarboxylase; Belongs to the uroporphyrinogen decarboxylase family.
+219	KAI7845224.1	3076.A0A2P6TBX0	91.8	486.1	C2E21_9313	Carbamate kinase.
+220	KAI7837110.1	3076.A0A2P6TUU9	92.7	931.4	C2E21_3491	Glycosyltransferase LARGE2.
+221	KAI7838547.1	3076.A0A2P6TWA6	80.2	381.3	C2E21_3068	Methyltransferase-like protein; Belongs to the methyltransferase superfamily. METL family.
+222	KAI7839002.1	3076.A0A2P6TW74	61.2	881.3	C2E21_2896	Phosphatidylinositol 3-kinase-related kinase; Belongs to the PI3/PI4-kinase family.
+223	KAI7842010.1	3076.A0A2P6U337	91.4	1218.4	C2E21_0947	Long chain acyl-synthetase 4.
+224	KAI7843030.1	3076.A0A2P6TGZ4	96.6	672.9	C2E21_7558	Chlorophyllide a oxygenase.
+225	KAI7840758.1	3076.A0A2P6TDP8	86.7	6344.2	C2E21_8770	Flagellar outer dynein arm heavy chain beta.
+226	KAI7844061.1	3076.A0A2P6TV83	81.5	431.0	C2E21_3308	Very-long-chain 3-oxoacyl-reductase 1-like; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+227	KAI7841498.1	3076.A0A2P6TV03	48.7	320.9	C2E21_3326	Water chloroplastic isoform B.
+228	KAI7838068.1	3076.A0A2P6TDX3	94.5	655.6	C2E21_8659	NAD-dependent deacetylase sirtuin-2.
+229	KAI7844732.1	3076.A0A2P6TNP3	64.7	502.3	C2E21_5374	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex.
+230	KAI7844494.1	3076.A0A2P6TVU0	64.0	738.8	C2E21_3071	Hydroxylamine reductase.
+231	KAI7838215.1	3076.A0A2P6TWC1	93.3	461.5	C2E21_3285	Diaminohydroxyphosphoribosylaminopyrimidine deaminase.
+232	KAI7846465.1	3076.A0A2P6TTA9	52.2	514.6	C2E21_4350	FAD-dependent oxidoreductase.
+233	KAI7842578.1	3076.A0A2P6TSN9	69.5	2249.2	C2E21_4201	Beach domain-containing.
+234	KAI7841865.1	3076.A0A2P6TXD1	87.7	630.6	C2E21_2391	Lysine-specific demethylase 4A-like isoform X1.
+235	KAI7835554.1	3076.A0A2P6TTU2	95.3	997.7	C2E21_3955	Prolyl-tRNA synthetase.
+236	KAI7842332.1	3076.A0A2P6TYY3	97.8	763.8	C2E21_2115	Coproporphyrinogen III oxidase chloroplast.
+237	KAI7843546.1	3076.A0A2P6TF34	88.8	874.4	C2E21_8243	CDK5 regulatory subunit-associated 1.
+238	KAI7841493.1	3076.A0A2P6TB31	96.7	592.0	C2E21_9563	Putative uridine nucleosidase 2.
+239	KAI7845040.1	3076.A0A2P6TQR7	96.6	786.6	C2E21_4687	Glutamate 5-kinase.
+240	KAI7835718.1	3076.A0A2P6THR4	91.6	458.4	C2E21_7336	Putative pyridoxal 5-phosphate synthase subunit PDX2.
+241	KAI7836192.1	3076.A0A2P6U1T8	82.9	944.1	C2E21_0831	Methionine synthase reductase.
+242	KAI7840174.1	3076.A0A2P6U0Q3	84.9	1496.9	C2E21_1399	Hexokinase 2.
+243	KAI7841070.1	3076.A0A2P6TWF5	93.9	951.4	C2E21_2698	Succinate-semialdehyde dehydrogenase; Belongs to the aldehyde dehydrogenase family.
+244	KAI7835790.1	3076.A0A2P6TRB4	86.6	632.1	C2E21_4557	Cysteine synthase; Belongs to the cysteine synthase/cystathionine beta- synthase family.
+245	KAI7846343.1	3076.A0A2P6U3W8	87.6	594.0	C2E21_0199	Glucose-6-phosphate 1-epimerase.
+246	KAI7843886.1	3076.A0A2P6TQM7	85.8	875.2	C2E21_5229	Lycopene epsilon cyclase.
+247	KAI7838295.1	3076.A0A2P6TKW1	90.6	641.7	C2E21_6368	Cysteine synthase; Belongs to the cysteine synthase/cystathionine beta- synthase family.
+248	KAI7845568.1	3076.A0A2P6TX55	48.6	273.5	C2E21_2969	Very-long-chain 3-oxoacyl-reductase 1-like.
+249	KAI7838506.1	3076.A0A2P6TMT6	83.3	427.9	C2E21_5830	Nitrilase cyanide hydratase and apolipo N-acyltransferase family.
+250	KAI7840320.1	3076.A0A2P6TBX2	96.6	747.3	C2E21_9261	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit mitochondrial.
+251	KAI7846238.1	3076.A0A2P6TU20	92.7	946.4	C2E21_3575	Ornithine decarboxylase; Belongs to the Orn/Lys/Arg decarboxylase class-II family.
+252	KAI7843757.1	3076.A0A2P6TLT5	87.7	818.9	C2E21_6295	Putative histone-arginine methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. Protein arginine N-methyltransferase family.
+253	KAI7837951.1	3076.A0A2P6TGH4	32.0	296.2	C2E21_7887	Serine threonine-kinase CTR1.
+254	KAI7845688.1	3076.A0A2P6TJN8	99.6	460.3	C2E21_6827	Serine acetyltransferase.
+255	KAI7840160.1	3076.A0A2P6TZW8	95.8	1481.5	C2E21_1391	Cystathionine gamma-synthase.
+256	KAI7845690.1	3076.A0A2P6TJU6	86.4	1290.4	C2E21_6829	Thioredoxin reductase.
+257	KAI7844903.1	3076.A0A2P6U3T5	94.3	656.0	C2E21_0556	Porphobilinogen deaminase.
+258	KAI7843848.1	3076.A0A2P6TQ35	86.7	1687.2	C2E21_5257	Puromycin-sensitive aminopeptidase isoform X1 isoform B.
+259	KAI7835328.1	3076.A0A2P6TD77	89.0	1042.7	C2E21_8790	Threonine--tRNA chloroplastic mitochondrial 2.
+260	KAI7843474.1	3076.A0A2P6THN9	91.6	716.5	C2E21_7193	Glycerol-3-phosphate acyltransferase, chloroplastic; Esterifies acyl-group from acyl-ACP to the sn-1 position of glycerol-3-phosphate. The enzyme from chilling-resistant plants discriminates against non-fluid palmitic acid and selects oleic acid whereas the enzyme from sensitive plants accepts both fatty acids. Belongs to the GPAT/DAPAT family.
+261	KAI7841153.1	3076.A0A2P6TGL6	89.8	1020.4	C2E21_7741	Apocarotenoid-15,15-oxygenase.
+262	KAI7836043.1	3076.A0A2P6TEC2	90.9	912.5	C2E21_8381	PALP domain-containing protein.
+263	KAI7836449.1	3076.A0A2P6TP45	79.1	900.6	C2E21_5634	Platelet-activating factor acetylhydrolase.
+264	KAI7835949.1	3076.A0A2P6TTA2	89.3	792.0	C2E21_3776	Cysteine desulfurase.
+265	KAI7841118.1	3076.A0A2P6TGK1	93.6	629.8	C2E21_7772	Ribosomal RNA large subunit methyltransferase N isoform B.
+266	KAI7836477.1	3076.A0A2P6TN89	99.4	344.4	C2E21_5607	Peptidyl-prolyl cis-trans isomerase CYP18-1.
+267	KAI7836946.1	3076.A0A2P6TSZ5	83.5	800.8	C2E21_4178	Serine threonine-kinase prpf4B-like.
+268	KAI7835403.1	3076.A0A2P6TH19	93.1	1166.4	C2E21_7692	Glyceraldehyde-3-phosphate cytosolic; Belongs to the glyceraldehyde-3-phosphate dehydrogenase family.
+269	KAI7844767.1	3076.A0A2P6TN87	85.0	692.6	C2E21_5400	Dual-specificity RNA methyltransferase.
+270	KAI7841584.1	3076.A0A2P6TW91	94.6	1313.1	C2E21_2963	Carbamoyl-phosphate synthase S chain; Belongs to the peroxidase family.
+271	KAI7840163.1	3076.A0A2P6U1F3	64.1	1517.3	C2E21_1394	Serine threonine-kinase CTR1.
+272	KAI7843704.1	3076.A0A2P6TVD7	91.5	622.5	C2E21_3439	Cysteine synthase; Belongs to the cysteine synthase/cystathionine beta- synthase family.
+273	KAI7839602.1	3076.A0A2P6TDY8	78.1	620.5	C2E21_8602	Glyoxal reductase.
+274	KAI7837988.1	3076.A0A2P6U5E4	78.0	1408.7	C2E21_0653	MAP3K epsilon kinase 1-like isoform X2.
+275	KAI7836287.1	3076.A0A2P6U422	84.9	1871.7	C2E21_0021	Serine hydroxymethyltransferase; Interconversion of serine and glycine. Belongs to the SHMT family.
+276	KAI7836362.1	3076.A0A2P6U532	86.3	342.4	C2E21_0443	Prolyl 4-hydroxylase subunit alpha-1.
+277	KAI7838743.1	3076.A0A2P6TUV0	97.4	313.9	C2E21_3718	Ubiquitin-conjugating enzyme E2 1-like; Belongs to the ubiquitin-conjugating enzyme family.
+278	KAI7837397.1	3076.A0A2P6TB77	97.5	1271.9	C2E21_9531	Glucose-6-phosphate isomerase; Belongs to the GPI family.
+279	KAI7841366.1	3076.A0A2P6U127	95.7	1530.8	C2E21_1669	Protoporphyrin IX magnesium chelatase.
+280	KAI7837354.1	3076.A0A2P6TUL0	86.9	741.5	C2E21_3355	Branched-chain-amino-acid aminotransferase; Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family.
+281	KAI7837666.1	3076.A0A2P6TBH6	84.4	1222.6	C2E21_9422	Acetolactate synthase.
+282	KAI7843314.1	3076.A0A2P6TJ92	92.1	800.8	C2E21_7093	Alcohol dehydrogenase.
+283	KAI7845120.1	3076.A0A2P6U3H9	93.5	1067.0	C2E21_0876	2-isopropylmalate synthase isoform B.
+284	KAI7835655.1	3076.A0A2P6TCU7	81.7	988.0	C2E21_8995	Lysine--tRNA ligase.
+285	KAI7846080.1	3076.A0A2P6TSS0	94.9	747.3	C2E21_3810	Bifunctional riboflavin biosynthesis RIBA chloroplastic-like.
+286	KAI7846115.1	3076.A0A2P6U0X8	89.5	1264.2	C2E21_1724	Putative aldo-keto reductase 2.
+287	KAI7840427.1	3076.A0A2P6TJ70	92.5	1062.4	C2E21_6928	Sulfatase.
+288	KAI7841219.1	3076.A0A2P6TFY5	94.6	1756.5	C2E21_7990	Valyl-tRNA synthetase; Belongs to the class-I aminoacyl-tRNA synthetase family.
+289	KAI7839309.1	3076.A0A2P6TRR0	74.5	1166.4	PFP-BETA-2	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta; Catalytic subunit of pyrophosphate--fructose 6-phosphate 1- phosphotransferase. Catalyzes the phosphorylation of D-fructose 6- phosphate, the first committing step of glycolysis. Uses inorganic phosphate (PPi) as phosphoryl donor instead of ATP like common ATP- dependent phosphofructokinases (ATP-PFKs), which renders the reaction reversible, and can thus function both in glycolysis and gluconeogenesis.
+290	KAI7844338.1	3076.A0A2P6TY13	76.8	747.3	C2E21_2238	Serine threonine-kinase Nek1 isoform X5.
+291	KAI7841308.1	3076.A0A2P6TXP3	90.1	723.4	C2E21_2371	L-cysteine desulfhydrase 1 isoform X2.
+292	KAI7845835.1	3076.A0A2P6U1P2	94.5	844.3	C2E21_1140	Serine--glyoxylate aminotransferase isoform A.
+293	KAI7836306.1	3076.A0A2P6TJ95	88.0	679.1	C2E21_6887	Ribonucleoside-diphosphate reductase small chain.
+294	KAI7837241.1	3076.A0A2P6TUN0	78.3	864.0	C2E21_3644	Amine oxidase [flavin-containing].
+295	KAI7841916.1	3076.A0A2P6U1C3	69.5	1640.2	C2E21_1584	Glycosyl hydrolase isoform B.
+296	KAI7840075.1	3076.A0A2P6TVL7	94.2	395.6	C2E21_2722	Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase; Catalyzes the third of the four reactions of the long-chain fatty acids elongation cycle. This endoplasmic reticulum-bound enzymatic process, allows the addition of two carbons to the chain of long- and very long-chain fatty acids/VLCFAs per cycle. This enzyme catalyzes the dehydration of the 3-hydroxyacyl-CoA intermediate into trans-2,3-enoyl-CoA, within each cycle of fatty acid elongation. Thereby, it participates to the production of VLCFAs of different chain lengths that are involved in multiple biological processes as precursors  [...] 
+297	KAI7845921.1	3076.A0A2P6U4V9	92.0	1296.2	C2E21_0369	ABC transporter F family member 3.
+298	KAI7842681.1	3076.A0A2P6U3C6	90.0	682.6	C2E21_0960	Aspartate aminotransferase.
+299	KAI7845914.1	3076.A0A2P6U4S3	89.1	1518.1	C2E21_0361	Calcium-dependent kinase 29.
+300	KAI7836665.1	3076.A0A2P6TE69	90.9	702.6	C2E21_8671	Acyl-coenzyme A thioesterase mitochondrial.
+301	KAI7844542.1	3076.A0A2P6TWF0	79.4	676.0	C2E21_3111	Phosphofructokinase family.
+302	KAI7836328.1	3076.A0A2P6TVI6	93.3	855.9	C2E21_3755	Argininosuccinate synthase isoform B.
+303	KAI7841218.1	3076.A0A2P6TFY5	98.0	1774.2	C2E21_7990	Valyl-tRNA synthetase; Belongs to the class-I aminoacyl-tRNA synthetase family.
+304	KAI7844483.1	3076.A0A2P6TH55	95.2	479.2	C2E21_7600	Triosephosphate cytosolic.
+305	KAI7837295.1	3076.A0A2P6TQZ1	85.9	479.9	C2E21_4840	Autophagy-related 18.
+306	KAI7843152.1	3076.A0A2P6TI93	91.2	914.1	C2E21_7368	Pyruvate kinase; Belongs to the pyruvate kinase family.
+307	KAI7840613.1	3076.A0A2P6TNV2	93.6	620.9	C2E21_5702	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase; Belongs to the CDP-alcohol phosphatidyltransferase class-I family.
+308	KAI7837757.1	3076.A0A2P6TCI8	84.4	1135.6	C2E21_9112	Acetyl-coenzyme A synthetase isoform B.
+309	KAI7842556.1	3076.A0A2P6TL20	74.9	1825.8	C2E21_6252	Glycosyl hydrolases family 31 isoform 1.
+310	KAI7838822.1	3076.A0A2P6U5M9	84.9	1246.5	C2E21_0103	Inactive cadmium zinc-transporting ATPase HMA3.
+311	KAI7837412.1	3076.A0A2P6TMQ3	83.6	838.6	C2E21_5721	NADH dehydrogenase.
+312	KAI7839158.1	3076.A0A2P6TN19	56.7	376.7	C2E21_6039	Lysine-specific demethylase JMJD5 isoform X1.
+313	KAI7844094.1	3076.A0A2P6TRP3	96.2	627.1	C2E21_4472	Thioredoxin reductase.
+314	KAI7835839.1	3076.A0A2P6TG44	93.2	1223.8	C2E21_7776	Long-chain-fatty-acid--ligase.
+315	KAI7836726.1	3076.A0A2P6TUV2	94.1	899.0	C2E21_3504	Serine--tRNA ligase.
+316	KAI7842666.1	3076.A0A2P6TSS1	94.3	583.2	C2E21_4285	Sulfate-binding.
+317	KAI7842087.1	3076.A0A2P6TMT4	92.8	946.0	C2E21_6000	Glutathione reductase.
+318	KAI7845791.1	3076.A0A2P6TG17	93.0	391.7	C2E21_8140	Domain-containing 4.
+319	KAI7835635.1	3076.A0A2P6TEX4	94.5	487.6	C2E21_8358	Chlorophyll(Ide) b reductase chloroplastic isoform X1; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+320	KAI7843692.1	3076.A0A2P6TVE5	86.5	696.0	C2E21_3430	Mg-protoporphyrin IX chelatase; Involved in chlorophyll biosynthesis. Catalyzes the insertion of magnesium ion into protoporphyrin IX to yield Mg-protoporphyrin IX. Belongs to the Mg-chelatase subunits D/I family.
+321	KAI7839821.1	3076.A0A2P6TUV1	56.0	646.0	C2E21_3762	Serine threonine-kinase CTR1.
+322	KAI7838917.1	3076.A0A2P6TF04	87.2	901.4	C2E21_8312	Flavin-containing monooxygenase.
+323	KAI7843968.1	3076.A0A2P6TPU0	92.6	585.1	C2E21_5163	Citrate lyase subunit beta mitochondrial.
+324	KAI7835430.1	3076.A0A2P6TFM3	70.3	807.7	C2E21_8069	Prolyl 4-hydroxylase subunit alpha-2 isoform B.
+325	KAI7844081.1	3076.A0A2P6TV03	84.1	1949.5	C2E21_3326	Water chloroplastic isoform B.
+326	KAI7836138.1	3076.A0A2P6TI90	90.0	390.6	C2E21_7473	Glutathione peroxidase; Belongs to the glutathione peroxidase family.
+327	KAI7845792.1	3076.A0A2P6TFW7	63.1	1485.7	C2E21_8139	Mitogen activated kinase.
+328	KAI7838787.1	3076.A0A2P6TUE6	71.4	1106.7	C2E21_3527	Pyruvate kinase; Belongs to the pyruvate kinase family.
+329	KAI7837904.1	3076.A0A2P6U4R7	92.4	765.4	C2E21_0163	S-adenosyl-L-methionine-dependent methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. gTMT family.
+330	KAI7841389.1	3076.A0A2P6U1C6	92.5	1355.5	C2E21_1689	O-acyltransferase.
+331	KAI7841351.1	3076.A0A2P6U0B2	95.1	1015.4	C2E21_1653	Propionyl-carboxylase beta mitochondrial.
+332	KAI7845346.1	3076.A0A2P6TEN7	82.7	2582.7	C2E21_8534	E3 ubiquitin-protein ligase; Ubiquitin ligase protein which is a component of the N-end rule pathway. Recognizes and binds to proteins bearing specific N- terminal residues that are destabilizing according to the N-end rule, leading to their ubiquitination and subsequent degradation.
+333	KAI7842653.1	3076.A0A2P6TTB0	89.3	1838.9	C2E21_4274	Calcium-transporting endoplasmic reticulum-type; Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+334	KAI7836740.1	3076.A0A2P6TTB4	74.3	204.1	C2E21_3871	Succinate dehydrogenase iron-sulfur subunit.
+335	KAI7838188.1	3076.A0A2P6TT83	90.8	3394.0	C2E21_4044	Phosphatidylinositol 4-kinase alpha 1; Belongs to the PI3/PI4-kinase family.
+336	KAI7843319.1	3076.A0A2P6TJD3	77.2	1254.6	C2E21_7099	Pyridine nucleotide-disulfide oxidoreductase.
+337	KAI7844583.1	3076.A0A2P6TUC0	87.3	734.6	C2E21_3675	Putative dihydrofolate synthetase isoform X2.
+338	KAI7843660.1	3076.A0A2P6TVA4	90.2	1817.0	C2E21_3397	2-oxoglutarate mitochondrial-like isoform A.
+339	KAI7841639.1	3076.A0A2P6TMI1	79.0	624.8	C2E21_5878	Amidase.
+340	KAI7843091.1	3076.A0A2P6U2A6	84.6	413.3	C2E21_1077	Putative chlorophyll(Ide) b reductase chloroplastic.
+341	KAI7835424.1	3076.A0A2P6TG25	85.0	299.3	C2E21_8073	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase; Belongs to the CDP-alcohol phosphatidyltransferase class-I family.
+342	KAI7841522.1	3076.A0A2P6TWL1	95.9	758.8	C2E21_2910	Branched-chain-amino-acid aminotransferase; Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family.
+343	KAI7843515.1	3076.A0A2P6TKT0	97.4	847.0	C2E21_6417	Glucose-1-phosphate adenylyltransferase.
+344	KAI7845440.1	3076.A0A2P6TCH5	84.5	921.0	C2E21_9083	Peptidyl-prolyl cis-trans isomerase CYP65.
+345	KAI7841796.1	3076.A0A2P6TDS8	93.8	620.9	C2E21_8592	Ribonucleoside-diphosphate reductase small chain.
+346	KAI7845349.1	3076.A0A2P6TEN6	81.8	2230.3	C2E21_8531	Multidrug resistance-associated 1 isoform X3.
+347	KAI7838597.1	3076.A0A2P6TJB9	70.1	356.3	C2E21_7134	Chloroplast photosystem II-associated 22 kDa.
+348	KAI7839859.1	3076.A0A2P6TGC6	91.8	436.8	C2E21_7809	D-lactate dehydrogenase; Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family.
+349	KAI7845546.1	3076.A0A2P6TDZ7	73.1	1189.5	C2E21_8632	Magnesium-translocating P-type ATPase; Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+350	KAI7836894.1	3076.A0A2P6U2E5	79.0	411.0	C2E21_1109	Glutathione peroxidase; Belongs to the glutathione peroxidase family.
+351	KAI7837968.1	3076.A0A2P6TLF7	90.0	952.6	C2E21_6307	Fad dependent oxidoreductase.
+352	KAI7842088.1	3076.A0A2P6TMT4	72.7	1013.8	C2E21_6000	Glutathione reductase.
+353	KAI7836863.1	3076.A0A2P6TKG7	92.2	505.0	C2E21_6724	3-oxoacyl-[acyl-carrier-protein] reductase; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+354	KAI7844576.1	3076.A0A2P6TWP7	78.2	655.6	C2E21_3144	Amine oxidase.
+355	KAI7836482.1	3076.A0A2P6TCS1	92.6	1024.6	C2E21_9050	Methylcrotonoyl-carboxylase.
+356	KAI7837604.1	3076.A0A2P6U3T2	88.5	1276.2	C2E21_0012	Methylcrotonoyl-carboxylase subunit mitochondrial.
+357	KAI7835774.1	3076.A0A2P6TKM6	87.7	114.8	C2E21_6456	NEDD8-activating enzyme E1 catalytic subunit isoform A.
+358	KAI7838945.1	3076.A0A2P6TPN3	87.9	833.2	C2E21_5295	4-hydroxyphenylpyruvate dioxygenase.
+359	KAI7835539.1	3076.A0A2P6TQ93	93.7	704.1	C2E21_5125	12-oxophytodienoate reductase 1.
+360	KAI7838627.1	3076.A0A2P6TR93	95.5	627.1	C2E21_4652	GDP-L-fucose synthase 2.
+361	KAI7835449.1	3076.A0A2P6TSU4	90.9	962.2	C2E21_4198	alpha-1,2-Mannosidase; Belongs to the glycosyl hydrolase 47 family.
+362	KAI7842211.1	3076.A0A2P6TTJ3	82.9	439.9	C2E21_4135	S-formylglutathione hydrolase; Serine hydrolase involved in the detoxification of formaldehyde.
+363	KAI7837480.1	3076.A0A2P6TP43	92.3	667.9	C2E21_5589	ATP-dependent zinc metalloprotease FTSH chloroplastic isoform B.
+364	KAI7835897.1	3076.A0A2P6TTG5	96.8	477.2	C2E21_4096	Chlorophyll a-b binding protein, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b-binding (LHC) protein family.
+365	KAI7836150.1	3076.A0A2P6THW0	96.0	1003.4	C2E21_7462	Cytochrome P450.
+366	KAI7842113.1	3076.A0A2P6TMU5	94.9	660.2	C2E21_5980	Nicotinamide-nucleotide adenylyltransferase.
+367	KAI7845460.1	3076.A0A2P6TFZ1	75.1	1152.1	C2E21_8105	Putative prolyl 4-hydroxylase 4.
+368	KAI7842119.1	3076.A0A2P6TLX6	76.0	559.7	C2E21_5979	Deoxycytidine kinase.
+369	KAI7840635.1	3076.A0A2P6TNF1	92.6	647.1	C2E21_5690	Ferredoxin-NADP+ reductase.
+370	KAI7841971.1	3076.A0A2P6U0B0	96.5	791.2	C2E21_1532	Acyl-coenzyme A oxidase peroxisomal.
+371	KAI7843572.1	3076.A0A2P6TF00	58.1	908.3	C2E21_8258	E3 ubiquitin-ligase UPL5.
+372	KAI7837371.1	3076.A0A2P6TU88	87.6	949.5	C2E21_3364	Proline--tRNA cytoplasmic isoform B.
+373	KAI7841152.1	3076.A0A2P6TGL6	85.8	1004.2	C2E21_7741	Apocarotenoid-15,15-oxygenase.
+374	KAI7844922.1	3076.A0A2P6U5G2	90.8	775.4	C2E21_0543	Sulfoquinovosyl transferase SQD2-like.
+375	KAI7841302.1	3076.A0A2P6TY84	95.2	480.3	C2E21_2365	Sedoheptulose-1,7-chloroplastic.
+376	KAI7845748.1	3076.A0A2P6TG03	92.8	580.1	C2E21_8172	Testosterone 17-beta-dehydrogenase 3.
+377	KAI7836703.1	3076.A0A2P6TW26	93.8	629.4	C2E21_3043	Aldo keto reductase family.
+378	KAI7835603.1	3076.A0A2P6TI19	86.1	1130.2	C2E21_7315	NADPH-cytochrome-P450 oxidoreductase.
+379	KAI7840315.1	3076.A0A2P6TBW5	89.0	622.5	C2E21_9256	Short-chain dehydrogenase reductase family 42E member 1 isoform A; Belongs to the 3-beta-HSD family.
+380	KAI7845924.1	3076.A0A2P6U4D0	94.6	506.9	C2E21_0372	Chlorophyll a-b binding protein, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b-binding (LHC) protein family.
+381	KAI7835429.1	3076.A0A2P6TFM3	69.9	802.4	C2E21_8069	Prolyl 4-hydroxylase subunit alpha-2 isoform B.
+382	KAI7836438.1	3076.A0A2P6TBL3	94.3	249.2	C2E21_9416	NADH-cytochrome b5 reductase; Belongs to the flavoprotein pyridine nucleotide cytochrome reductase family.
+383	KAI7840126.1	3076.A0A2P6TCU2	86.5	1271.9	C2E21_8917	Cullin family; Belongs to the cullin family.
+384	KAI7838934.1	3076.A0A2P6TPU8	87.9	2167.1	C2E21_5287	Starch branching enzyme.
+385	KAI7837050.1	3076.A0A2P6U3E9	97.1	508.8	C2E21_1316	2-isopropylmalate synthase.
+386	KAI7838795.1	3076.A0A2P6U3J4	81.1	1664.4	C2E21_0129	Peroxisomal fatty acid beta-oxidation multifunctional MFP2.
+387	KAI7836612.1	3076.A0A2P6U0E0	74.6	829.7	C2E21_1789	Tyrosinase superfamily.
+388	KAI7842619.1	3076.A0A2P6TST9	66.8	953.4	C2E21_4241	Peptidase S41 family.
+389	KAI7845002.1	3076.A0A2P6TR90	99.2	406.8	C2E21_4725	NADH dehydrogenase [ubiquinone] iron-sulfur mitochondrial.
+390	KAI7836711.1	3076.A0A2P6TW68	91.5	928.3	C2E21_3051	Ethanolamine-phosphate phospho-lyase; Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family.
+391	KAI7842822.1	3076.A0A2P6U3N6	80.1	1214.1	C2E21_0282	Kinase Yak1.
+392	KAI7836348.1	3076.A0A2P6U4E0	82.9	661.8	C2E21_0458	Chorismate synthase.
+393	KAI7839658.1	3076.A0A2P6TY53	94.5	438.3	C2E21_2683	Adenylyl-sulfate kinase chloroplastic.
+394	KAI7843773.1	3076.A0A2P6TQA9	95.9	612.1	C2E21_4876	Malonyl-acyl carrier transacylase isoform A.
+395	KAI7846029.1	3076.A0A2P6TEJ1	84.3	2266.5	C2E21_8401	AMP-binding.
+396	KAI7839167.1	3076.A0A2P6TM10	86.2	541.6	C2E21_6025	Transcriptional Sir2 family isoform A.
+397	KAI7843004.1	3076.A0A2P6TH02	57.8	559.7	C2E21_7537	Arabinanase levansucrase invertase.
+398	KAI7837374.1	3076.A0A2P6TUQ5	79.9	1073.2	C2E21_3367	Sulfate adenylyltransferase.
+399	KAI7846001.1	3076.A0A2P6TNU5	65.6	1250.3	C2E21_5357	12-oxophytodienoate reductase 11 isoform C.
+400	KAI7838586.1	3076.A0A2P6TNR3	77.0	920.6	C2E21_5556	Serine threonine-kinase CTR1.
+401	KAI7838946.1	3076.A0A2P6TPN3	91.8	850.1	C2E21_5295	4-hydroxyphenylpyruvate dioxygenase.
+402	KAI7835595.1	3076.A0A2P6TQH5	87.9	274.6	C2E21_5272	Beta-galactosidase isoform B.
+403	KAI7841753.1	3076.A0A2P6TRG1	87.3	876.3	C2E21_4462	Serine carboxypeptidase-like 25; Belongs to the peptidase S10 family.
+404	KAI7841883.1	3076.A0A2P6U0A6	86.0	563.5	C2E21_1622	Diacylglycerol acyltransferase.
+405	KAI7838881.1	3076.A0A2P6TDL4	91.2	2266.1	C2E21_8852	Urea carboxylase.
+406	KAI7835508.1	3076.A0A2P6TKN6	85.1	945.7	C2E21_6212	Carboxypeptidase; Belongs to the peptidase S10 family.
+407	KAI7840424.1	3076.A0A2P6TIW5	91.8	2010.3	C2E21_6926	Phosphoenolpyruvate carboxylase 4.
+408	KAI7843055.1	3076.A0A2P6U2C5	78.5	847.0	C2E21_1048	Aldehyde dehydrogenase; Belongs to the aldehyde dehydrogenase family.
+409	KAI7839690.1	3076.A0A2P6TYT7	93.4	929.1	C2E21_2662	ATP synthase subunit beta; Produces ATP from ADP in the presence of a proton gradient across the membrane.
+410	KAI7839245.1	3076.A0A2P6TQW2	82.5	757.3	C2E21_4817	Amine oxidase.
+411	KAI7842709.1	3076.A0A2P6U253	68.6	369.8	C2E21_0977	Glyoxal reductase.
+412	KAI7837746.1	3076.A0A2P6TCN2	72.9	582.8	C2E21_9117	Ubiquitin conjugating enzyme family.
+413	KAI7845082.1	3076.A0A2P6TLF4	92.5	590.1	C2E21_6449	RNA pseudouridine synthase 5 isoform X2 isoform A.
+414	KAI7845298.1	3076.A0A2P6TM42	72.6	1055.8	C2E21_5943	Glutamyl-tRNA synthetase isoform B.
+415	KAI7846419.1	3076.A0A2P6TKT1	84.8	701.8	C2E21_6129	LanC 3 isoform X3 isoform B.
+416	KAI7843416.1	3076.A0A2P6TIG2	81.4	1098.6	C2E21_7242	Putative GTP diphosphokinase chloroplastic.
+417	KAI7842011.1	3076.A0A2P6U337	90.9	1222.6	C2E21_0947	Long chain acyl-synthetase 4.
+418	KAI7845648.1	3076.A0A2P6TKF8	98.4	362.1	C2E21_6785	Photosystem I reaction center subunit chloroplastic.
+419	KAI7835628.1	3076.A0A2P6TLV2	76.9	1283.1	C2E21_6205	Receptor-type tyrosine-phosphatase eta.
+420	KAI7838304.1	3076.A0A2P6TKU7	98.9	1112.1	C2E21_6363	GMP synthase [glutamine-hydrolyzing].
+421	KAI7839863.1	3076.A0A2P6TGE4	90.4	439.5	C2E21_7793	Acyl-thioesterase 1.
+422	KAI7840956.1	3076.A0A2P6TLM8	90.7	776.9	C2E21_6262	Leucine rich repeat.
+423	KAI7838112.1	3076.A0A2P6TFB0	97.0	1064.7	C2E21_8328	Zeta-carotene desaturase; Catalyzes the conversion of zeta-carotene to lycopene via the intermediary of neurosporene. It carries out two consecutive desaturations (introduction of double bonds) at positions C-7 and C-7'.
+424	KAI7846128.1	3076.A0A2P6TZQ3	98.0	1463.4	C2E21_1738	Acetyl-coenzyme A synthetase.
+425	KAI7835969.1	3076.A0A2P6TJP3	78.8	605.9	C2E21_6590	28S ribosomal mitochondrial.
+426	KAI7838053.1	3076.A0A2P6TDT5	78.9	894.0	C2E21_8646	Amine oxidase.
+427	KAI7837997.1	3076.A0A2P6U3J2	44.3	249.2	C2E21_0064	Calcium calmodulin-dependent kinase type 1; Belongs to the protein kinase superfamily.
+428	KAI7842352.1	3076.A0A2P6TY64	89.8	561.2	C2E21_2096	Lipid phosphate phosphatase.
+429	KAI7845473.1	3076.A0A2P6TFE5	92.2	766.5	C2E21_8091	Acyl-dehydrogenase.
+430	KAI7844167.1	3076.A0A2P6TSC7	85.2	532.3	C2E21_3923	Phosphoglycolate phosphatase.
+431	KAI7843415.1	3076.A0A2P6TIB8	99.5	382.1	C2E21_7243	RUB1-conjugating enzyme E2; Belongs to the ubiquitin-conjugating enzyme family.
+432	KAI7841967.1	3076.A0A2P6U158	90.8	490.7	C2E21_1536	Polyprenol reductase 2.
+433	KAI7838816.1	3076.A0A2P6U5P9	94.0	985.3	C2E21_0109	Endoplasmic reticulum oxidoreductin 1.
+434	KAI7845174.1	3076.A0A2P6TBN8	88.1	1206.4	C2E21_9360	Propionyl-carboxylase alpha mitochondrial.
+435	KAI7838515.1	3076.A0A2P6TN10	76.5	1035.0	C2E21_5841	Histone deacetylase 15 isoform X2.
+436	KAI7846082.1	3076.A0A2P6TSX2	96.8	1068.5	C2E21_3807	Asparagine synthetase [glutamine-hydrolyzing].
+437	KAI7845572.1	3076.A0A2P6TDJ7	73.2	367.9	C2E21_8839	Beta-ketoacyl reductase; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+438	KAI7843659.1	3076.A0A2P6TVA4	92.8	1858.2	C2E21_3397	2-oxoglutarate mitochondrial-like isoform A.
+439	KAI7840053.1	3076.A0A2P6TVU1	96.5	281.2	C2E21_2739	Ubiquitin-conjugating enzyme E2 27.
+440	KAI7842038.1	3076.A0A2P6U295	87.2	564.7	C2E21_0930	Fe-S cluster assembly factor chloroplastic; Belongs to the OSBP family.
+441	KAI7836532.1	3076.A0A2P6TE53	90.9	698.4	C2E21_8673	Acyl-coenzyme A thioesterase mitochondrial.
+442	KAI7842236.1	3076.A0A2P6TSF9	87.1	589.3	C2E21_4110	3-ketoacyl-thiolase peroxisomal; Belongs to the thiolase-like superfamily. Thiolase family.
+443	KAI7845014.1	3076.A0A2P6TS22	87.8	569.3	C2E21_4714	NADPH:quinone reductase.
+444	KAI7841157.1	3076.A0A2P6TGJ3	93.3	330.1	C2E21_7738	Peroxiredoxin; Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides; Belongs to the peroxiredoxin family. Prx5 subfamily.
+445	KAI7840204.1	3076.A0A2P6U1A5	80.0	624.4	C2E21_1423	Glutamate dehydrogenase; Belongs to the Glu/Leu/Phe/Val dehydrogenases family.
+446	KAI7841831.1	3076.A0A2P6TYB8	98.5	1184.1	C2E21_2421	Mg-protoporphyrin IX chelatase; Involved in chlorophyll biosynthesis. Catalyzes the insertion of magnesium ion into protoporphyrin IX to yield Mg-protoporphyrin IX. Belongs to the Mg-chelatase subunits D/I family.
+447	KAI7844286.1	3076.A0A2P6TY85	95.8	699.5	C2E21_2293	Methionine aminopeptidase; Cotranslationally removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met- Ala-, Cys, Gly, Pro, Ser, Thr, or Val).
+448	KAI7843899.1	3076.A0A2P6TPR2	82.1	631.7	C2E21_5219	Histone deacetylase 14 isoform X1.
+449	KAI7841453.1	3076.A0A2P6TLW4	78.2	1064.3	C2E21_5712	Glycerol-3-phosphate acyltransferase.
+450	KAI7835483.1	3076.A0A2P6TSA6	85.3	874.0	C2E21_4076	Outer envelope mitochondrial.
+451	KAI7841270.1	3076.A0A2P6TZU6	94.5	672.2	C2E21_1847	Methionine aminotransferase isoform A.
+452	KAI7840817.1	3076.A0A2P6TKU2	90.6	951.4	C2E21_6489	Uncharacterized protein.
+453	KAI7845510.1	3076.A0A2P6TBA5	82.5	1200.3	C2E21_9498	Copper-transporting ATPase chloroplastic.
+454	KAI7837513.1	3076.A0A2P6TSG6	68.4	1334.3	C2E21_4310	Glycoside hydrolase.
+455	KAI7836975.1	3076.A0A2P6TCJ3	90.6	1431.4	C2E21_9027	GTP diphosphokinase chloroplastic isoform X1 isoform B.
+456	KAI7837786.1	3076.A0A2P6TJA3	98.3	578.2	C2E21_7003	Triosephosphate isomerase.
+457	KAI7836327.1	3076.A0A2P6TVI6	91.9	847.4	C2E21_3755	Argininosuccinate synthase isoform B.
+458	KAI7844344.1	3076.A0A2P6TYI8	84.1	1481.5	C2E21_2237	P-type ATPase PMA1; Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+459	KAI7840018.1	3076.A0A2P6TMZ5	41.4	368.6	C2E21_5912	2-hydroxyacyl-lyase isoform B.
+460	KAI7837357.1	3076.A0A2P6TUB8	96.1	2625.1	C2E21_3356	Magnesium chelatase subunit H.
+461	KAI7842975.1	3076.A0A2P6TYP3	90.4	690.6	C2E21_2546	Thioredoxin-dependent peroxide reductase.
+462	KAI7837624.1	3076.A0A2P6TKL3	90.7	969.1	C2E21_6549	Acetohydroxy acid isomeroreductase isoform B; Belongs to the ketol-acid reductoisomerase family.
+463	KAI7840423.1	3076.A0A2P6TIW5	89.7	1995.3	C2E21_6926	Phosphoenolpyruvate carboxylase 4.
+464	KAI7843632.1	3076.A0A2P6TJ28	76.5	490.3	C2E21_7056	Cryptochrome DASH.
+465	KAI7843341.1	3076.A0A2P6TJ63	89.4	657.5	C2E21_7116	Glycosyl group 1 family.
+466	KAI7844106.1	3076.A0A2P6TRH4	82.2	2945.2	C2E21_4482	Transcription factor jumonji domain.
+467	KAI7837013.1	3076.A0A2P6TLW7	39.9	229.6	C2E21_5766	Taurine catabolism dioxygenase.
+468	KAI7842778.1	3076.A0A2P6U4L1	51.0	1014.6	C2E21_0318	Dual-specificity tyrosine-(Y)-phosphorylation regulated kinase.
+469	KAI7841086.1	3076.A0A2P6TKK9	90.0	818.5	C2E21_6513	Metal transporter Nramp3.
+470	KAI7846437.1	3076.A0A2P6TN73	80.4	1365.5	C2E21_5440	Glutamine cyclotransferase.
+471	KAI7837531.1	3076.A0A2P6TSA9	71.2	708.4	C2E21_4293	Putative chlorophyll(Ide) b reductase chloroplastic isoform B.
+472	KAI7836303.1	3076.A0A2P6TIP7	90.1	639.4	C2E21_6883	Gde1p.
+473	KAI7841178.1	3076.A0A2P6TFJ1	78.1	649.4	C2E21_7954	Histone deacetylase 14 isoform X1.
+474	KAI7844041.1	3076.A0A2P6U3U0	62.2	796.2	C2E21_0488	Oxygen evolving enhancer 2 of photosystem II.
+475	KAI7840167.1	3076.A0A2P6TZT5	97.1	473.4	C2E21_1396	Histone acetyltransferase; Belongs to the MYST (SAS/MOZ) family.
+476	KAI7838111.1	3076.A0A2P6TFB0	99.1	1082.0	C2E21_8328	Zeta-carotene desaturase; Catalyzes the conversion of zeta-carotene to lycopene via the intermediary of neurosporene. It carries out two consecutive desaturations (introduction of double bonds) at positions C-7 and C-7'.
+477	KAI7845554.1	3076.A0A2P6TDE0	93.7	382.5	C2E21_8825	Adenylate kinase; Belongs to the adenylate kinase family.
+478	KAI7840656.1	3076.A0A2P6TNZ3	64.6	414.1	C2E21_5662	NAD(P)-dependent oxidoreductase.
+479	KAI7840251.1	3076.A0A2P6U099	79.5	671.0	C2E21_1467	Peptidyl-prolyl cis-trans isomerase CYP19-3 isoform X2.
+480	KAI7839460.1	3076.A0A2P6TMJ2	39.1	444.5	C2E21_5734	Ferric-chelate reductase.
+481	KAI7842228.1	3076.A0A2P6TSH3	93.6	639.4	C2E21_4117	Putative prolyl 4-hydroxylase 6.
+482	KAI7840564.1	3076.A0A2P6TES7	91.6	381.3	C2E21_8445	V-type proton ATPase subunit D-like isoform B.
+483	KAI7845840.1	3076.A0A2P6TQ86	82.6	929.9	C2E21_5092	RNA-splicing ligase RtcB homolog; Catalytic subunit of the tRNA-splicing ligase complex that acts by directly joining spliced tRNA halves to mature-sized tRNAs by incorporating the precursor-derived splice junction phosphate into the mature tRNA as a canonical 3',5'-phosphodiester. May act as an RNA ligase with broad substrate specificity, and may function toward other RNAs; Belongs to the RtcB family.
+484	KAI7837584.1	3076.A0A2P6U1S2	92.8	647.9	C2E21_0888	Protease Do-like 14.
+485	KAI7844103.1	3076.A0A2P6TRE0	97.6	329.7	C2E21_4479	Ubiquitin-conjugating enzyme E2 2; Belongs to the ubiquitin-conjugating enzyme family.
+486	KAI7841999.1	3076.A0A2P6U583	89.0	524.6	C2E21_0144	Serine acetyltransferase 2.
+487	KAI7837667.1	3076.A0A2P6TBH6	86.3	1243.4	C2E21_9422	Acetolactate synthase.
+488	KAI7840521.1	3076.A0A2P6TY08	57.7	1340.9	C2E21_2557	Putative serine threonine-kinase.
+489	KAI7840432.1	3076.A0A2P6TIU0	76.1	2548.9	C2E21_6932	Cytochrome P450 chloroplastic isoform B.
+490	KAI7841988.1	3076.A0A2P6U556	40.0	4683.2	C2E21_0139	Type I polyketide synthase.
+491	KAI7840168.1	3076.A0A2P6U146	98.3	478.8	C2E21_1397	Chlorophyll a-b binding protein, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b-binding (LHC) protein family.
+492	KAI7838456.1	3076.A0A2P6TM95	93.1	1217.2	C2E21_5786	Acyl-coenzyme A oxidase peroxisomal.
+493	KAI7839092.1	3076.A0A2P6TD11	91.7	2258.0	C2E21_8932	Pyruvate carboxylase isoform B.
+494	KAI7841169.1	3076.A0A2P6TG53	90.1	1123.2	C2E21_7727	Beta-hexosaminidase subunit beta isoform X1.
+495	KAI7839891.1	3076.A0A2P6U110	96.8	1346.3	C2E21_1345	Acyl-coenzyme A oxidase; Belongs to the acyl-CoA oxidase family.
+496	KAI7840923.1	3076.A0A2P6TGW4	89.3	1590.9	C2E21_7660	E3 ubiquitin-ligase UPL1-like.
+497	KAI7836814.1	3076.A0A2P6TID9	78.0	1159.4	C2E21_7329	Putative beta-D-xylosidase 7.
+498	KAI7838749.1	3076.A0A2P6TU52	92.7	1332.4	C2E21_3721	Coatomer subunit beta-1 isoform X1.
+499	KAI7842322.1	3076.A0A2P6TXM1	89.9	1808.1	C2E21_2125	ABC transporter A family member 7-like.
+500	KAI7838690.1	3076.A0A2P6U2S7	88.8	840.1	C2E21_0765	Citrate synthase; Belongs to the citrate synthase family.
+501	KAI7842593.1	3076.A0A2P6TT54	89.8	935.6	C2E21_4215	Uridine-cytidine kinase C.
+502	KAI7843072.1	3076.A0A2P6U2X9	80.6	1503.8	C2E21_1059	Heavy metal P-type ATPase.
+503	KAI7838688.1	3076.A0A2P6U2E8	93.8	1156.7	C2E21_0778	Hydroxylamine reductase.
+503	KAI7838688.1	3076.A0A2P6U2E8	93.3	659.8	C2E21_0778	Hydroxylamine reductase.
+504	KAI7839106.1	3076.A0A2P6TCZ5	75.2	684.1	C2E21_8945	Pyridoxamine 5-phosphate oxidase.
+505	KAI7844205.1	3076.A0A2P6TTM0	89.0	491.5	C2E21_3890	Carbonyl reductase [NADPH] 1; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+506	KAI7841213.1	3076.A0A2P6TFZ9	86.3	944.5	C2E21_7986	NADP-dependent malic enzyme.
+507	KAI7839948.1	3076.A0A2P6TC60	80.2	607.1	C2E21_9201	Lysine-specific demethylase JMJ706.
+507	KAI7839948.1	3076.A0A2P6TC60	85.2	146.0	C2E21_9201	Lysine-specific demethylase JMJ706.
+508	KAI7838001.1	3076.A0A2P6TB33	59.5	161.8	C2E21_9551	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides; Belongs to the cyclophilin-type PPIase family.
+509	KAI7842747.1	3076.A0A2P6U292	93.1	1419.4	C2E21_1008	ATP-dependent RNA helicase DDX1.
+510	KAI7846313.1	3076.A0A2P6U479	83.7	1182.2	C2E21_0420	ATP-binding cassette.
+511	KAI7843060.1	3076.A0A2P6U343	92.7	621.3	C2E21_1051	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex.
+512	KAI7835540.1	3076.A0A2P6TS45	75.3	492.3	C2E21_4580	Serine threonine-kinase; Belongs to the protein kinase superfamily.
+513	KAI7844967.1	3076.A0A2P6U5A5	92.1	704.9	C2E21_0498	Arogenate dehydratase; Converts the prephenate produced from the shikimate- chorismate pathway into phenylalanine.
+514	KAI7842069.1	3076.A0A2P6TMB0	83.5	1611.7	C2E21_6012	Serine threonine-kinase CTR1 isoform A.
+515	KAI7843098.1	3076.A0A2P6U2Q9	80.0	619.0	C2E21_1085	Glutamate decarboxylase; Belongs to the group II decarboxylase family.
+516	KAI7845704.1	3076.A0A2P6TK81	99.3	585.1	C2E21_6843	Tetrahydrofolate dehydrogenase cyclohydrolase.
+517	KAI7844650.1	3076.A0A2P6U0M9	94.8	811.2	C2E21_1931	Diaminopimelate decarboxylase chloroplastic.
+518	KAI7839738.1	3076.A0A2P6TGG6	81.7	533.9	C2E21_7890	Quinone oxidoreductase 2-like protein isoform B.
+519	KAI7845383.1	3076.A0A2P6TEL0	97.7	850.1	C2E21_8506	Putative methionine--tRNA ligase; Belongs to the class-I aminoacyl-tRNA synthetase family.
+520	KAI7840677.1	3076.A0A2P6TR88	94.4	366.3	C2E21_4614	Superoxide dismutase; Destroys radicals which are normally produced within the cells and which are toxic to biological systems. Belongs to the iron/manganese superoxide dismutase family.
+521	KAI7844434.1	3076.A0A2P6TTG2	78.5	23316.1	C2E21_4328	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial; Iron-sulfur protein (IP) subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q).
+522	KAI7840744.1	3076.A0A2P6TDA9	96.9	884.8	C2E21_8757	3-oxoacyl-[acyl-carrier-protein] synthase; Belongs to the thiolase-like superfamily. Beta-ketoacyl-ACP synthases family.
+523	KAI7842303.1	3076.A0A2P6TY03	90.3	995.7	C2E21_2144	Amine oxidase.
+524	KAI7836768.1	3076.A0A2P6TNN6	94.9	500.0	C2E21_5516	Chlorophyll a-b binding protein, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b-binding (LHC) protein family.
+525	KAI7840049.1	3076.A0A2P6TJL1	92.6	815.5	C2E21_6667	3-phosphoshikimate 1-carboxyvinyltransferase; Belongs to the EPSP synthase family.
+526	KAI7839906.1	3076.A0A2P6U024	95.5	1001.1	C2E21_1361	Dihydrolipoyl dehydrogenase.
+527	KAI7839439.1	3076.A0A2P6TTQ2	98.3	606.3	C2E21_4384	ATP synthase gamma chloroplastic.
+528	KAI7838657.1	3076.A0A2P6TMA9	79.8	549.7	C2E21_6071	Histone deacetylase 14 isoform X1.
+529	KAI7843680.1	3076.A0A2P6TUJ0	90.6	1088.2	C2E21_3418	Aldehyde dehydrogenase 22A1; Belongs to the aldehyde dehydrogenase family.
+530	KAI7844118.1	3076.A0A2P6TQY5	87.6	414.8	C2E21_4488	Uridylate kinase isoform A.
+531	KAI7844199.1	3076.A0A2P6TSH8	82.4	348.6	C2E21_3896	Peptidyl-prolyl cis-trans isomerase B.
+532	KAI7840922.1	3076.A0A2P6TGW4	90.6	1605.1	C2E21_7660	E3 ubiquitin-ligase UPL1-like.
+533	KAI7837900.1	3076.A0A2P6U5H4	72.3	2025.0	C2E21_0160	Cobalamin-dependent methionine synthase.
+534	KAI7838529.1	3076.A0A2P6TIU5	80.7	553.9	C2E21_7155	Geranylgeranyl diphosphate synthase.
+535	KAI7844168.1	3076.A0A2P6TJ83	58.9	552.4	C2E21_7025	Serine threonine-kinase CTR1.
+536	KAI7842048.1	3076.A0A2P6U3H4	83.3	1869.4	C2E21_0924	Leucyl-cystinyl aminopeptidase.
+537	KAI7836254.1	3076.A0A2P6U4B2	92.2	620.9	C2E21_0597	Malate dehydrogenase.
+538	KAI7843693.1	3076.A0A2P6TV74	94.9	441.4	C2E21_3431	Acetyltransferase NSI.
+539	KAI7843340.1	3076.A0A2P6TJ52	97.1	629.4	C2E21_7112	NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial; Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain.
+540	KAI7843748.1	3076.A0A2P6TL93	84.1	837.8	C2E21_6300	ATP synthase subunit alpha.
+541	KAI7835592.1	3076.A0A2P6TQH5	75.8	1202.2	C2E21_5272	Beta-galactosidase isoform B.
+542	KAI7835594.1	3076.A0A2P6TQH5	85.8	325.5	C2E21_5272	Beta-galactosidase isoform B.
+543	KAI7844672.1	3076.A0A2P6TZM2	77.2	873.2	C2E21_1953	Putative cadmium zinc-transporting ATPase chloroplastic.
+544	KAI7846014.1	3076.A0A2P6TNV6	95.0	474.9	C2E21_5344	Carbonic anhydrase.
+545	KAI7836422.1	3076.A0A2P6TPH8	91.0	753.8	C2E21_4950	WD40 repeat.
+546	KAI7841822.1	3076.A0A2P6TY35	90.5	1981.8	C2E21_2428	Calcium-transporting ATPase; This magnesium-dependent enzyme catalyzes the hydrolysis of ATP coupled with the transport of calcium.
+547	KAI7841499.1	3076.A0A2P6TB37	89.4	632.5	C2E21_9560	Purple acid phosphatase; Belongs to the metallophosphoesterase superfamily. Purple acid phosphatase family.
+548	KAI7836381.1	3076.A0A2P6TXE9	57.5	1177.2	C2E21_2625	DNA polymerase eta isoform C.
+549	KAI7845651.1	3076.A0A2P6TJZ6	87.2	1002.3	C2E21_6787	Phospholipase A-2-activating.
+550	KAI7843457.1	3076.A0A2P6THR9	91.0	1110.5	C2E21_7207	tRNA uridine(34) 5-carboxymethylaminomethyl synthesis enzyme isoform B.
+551	KAI7837615.1	3076.A0A2P6TKQ9	52.0	491.9	C2E21_6809	Carotene isomerase.
+552	KAI7840706.1	3076.A0A2P6TQZ6	87.3	485.7	C2E21_4639	Uracil-DNA glycosylase; Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine.
+553	KAI7835447.1	3076.A0A2P6TSW1	94.8	2567.3	C2E21_4195	Zn-dependent exopeptidase.
+554	KAI7842291.1	3076.A0A2P6TY19	88.3	375.6	C2E21_2153	Proteasome subunit beta type-6.
+555	KAI7835371.1	3076.A0A2P6TLT1	95.9	691.0	LIP1P	Lipoyl synthase, chloroplastic; Catalyzes the radical-mediated insertion of two sulfur atoms into the C-6 and C-8 positions of the octanoyl moiety bound to the lipoyl domains of lipoate-dependent enzymes, thereby converting the octanoylated domains into lipoylated derivatives.
+556	KAI7841834.1	3076.A0A2P6TXX0	74.0	1212.6	C2E21_2418	Serine threonine-phosphatase 6 regulatory ankyrin repeat subunit B-like.
+557	KAI7844384.1	3076.A0A2P6TXE2	97.0	392.9	C2E21_2197	2-cys peroxiredoxin BAS1.
+558	KAI7840842.1	3076.A0A2P6TLI0	93.5	420.6	C2E21_6473	Anthranilate synthase beta subunit.
+559	KAI7837472.1	3076.A0A2P6TR81	84.9	368.2	C2E21_4827	Suppressor of disruption of TFIIS-like.
+560	KAI7844082.1	3076.A0A2P6TV03	84.3	1955.3	C2E21_3326	Water chloroplastic isoform B.
+561	KAI7841210.1	3076.A0A2P6TFE9	90.2	1050.4	C2E21_7985	IMP dehydrogenase GMP reductase.
+562	KAI7838483.1	3076.A0A2P6TMY1	88.4	286.2	C2E21_5813	Autophagy-related 18h-like isoform X1.
+563	KAI7845312.1	3076.A0A2P6TMG9	95.0	706.4	C2E21_5931	GDP-L-fucose synthase 2.
+564	KAI7839422.1	3076.A0A2P6TTJ8	87.9	1357.4	C2E21_4370	5-oxoprolinase.
+565	KAI7841151.1	3076.A0A2P6TG50	77.7	1463.0	C2E21_7742	20S-pre-rRNA D-site endonuclease nob1-like; Belongs to the multicopper oxidase family.
+566	KAI7844479.1	3076.A0A2P6TH86	86.9	1144.4	C2E21_7597	Malic enzyme.
+567	KAI7845708.1	3076.A0A2P6TJZ5	93.1	1024.6	C2E21_6845	Alanine aminotransferase isoform B.
+568	KAI7838164.1	3076.A0A2P6TTE0	68.4	1882.5	C2E21_4060	Microtubule-associated futsch isoform X1.
+569	KAI7839077.1	3076.A0A2P6TER2	63.3	398.7	C2E21_8453	SAM-dependent methyltransferase.
+570	KAI7842571.1	3076.A0A2P6TL77	95.8	223.8	C2E21_6235	V-type proton ATPase subunit F; Subunit of the peripheral V1 complex of vacuolar ATPase essential for assembly or catalytic function. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells.
+571	KAI7840589.1	3076.A0A2P6TEM0	83.8	1090.9	C2E21_8429	Glycerophosphodiesterase GDE1 isoform B.
+572	KAI7838407.1	3076.A0A2P6TDA2	99.1	448.4	C2E21_8738	1-acyl-sn-glycerol-3-phosphate acyltransferase; Belongs to the 1-acyl-sn-glycerol-3-phosphate acyltransferase family.
+573	KAI7843623.1	3076.A0A2P6TJB5	88.7	650.6	C2E21_7062	Taurine catabolism dioxygenase.
+574	KAI7838140.1	3076.A0A2P6TQ58	80.5	1415.6	C2E21_5117	Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex; Belongs to the pyruvate kinase family.
+575	KAI7844894.1	3076.A0A2P6U584	56.5	360.1	C2E21_0525	Serine threonine-kinase CTR1 isoform A.
+576	KAI7839624.1	3076.A0A2P6TKK4	63.2	413.3	C2E21_6677	Glutathione peroxidase; Belongs to the glutathione peroxidase family.
+577	KAI7839061.1	3076.A0A2P6TWU0	72.4	400.2	C2E21_3212	Ubiquinol oxidase; Belongs to the alternative oxidase family.
+578	KAI7837924.1	3076.A0A2P6TKS4	63.0	542.3	C2E21_6342	Tyrosine--tRNA ligase.
+579	KAI7841194.1	3076.A0A2P6TG41	71.6	827.4	C2E21_7971	Amino acid permease 2.
+580	KAI7838052.1	3076.A0A2P6TDT5	76.9	843.2	C2E21_8646	Amine oxidase.
+581	KAI7838012.1	3076.A0A2P6U3W6	87.1	1448.7	C2E21_0633	Fructose-bisphosphate cytoplasmic isozyme.
+582	KAI7840079.1	3076.A0A2P6TW23	98.9	373.6	C2E21_2718	3-hydroxybutyrate dehydrogenase.
+583	KAI7844968.1	3076.A0A2P6U5A5	85.7	682.9	C2E21_0498	Arogenate dehydratase; Converts the prephenate produced from the shikimate- chorismate pathway into phenylalanine.
+584	KAI7844495.1	3076.A0A2P6TW37	84.3	1238.8	C2E21_3072	Hydroxylamine reductase.
+585	KAI7845689.1	3076.A0A2P6TKI2	85.0	503.4	C2E21_6828	Serine O-acetyltransferase.
+586	KAI7843873.1	3076.A0A2P6TPL9	91.6	535.4	C2E21_5242	Inositol-1-monophosphatase.
+587	KAI7844831.1	3076.A0A2P6TE71	96.5	622.9	C2E21_8690	Cysteine synthase; Belongs to the cysteine synthase/cystathionine beta- synthase family.
+588	KAI7844369.1	3076.A0A2P6TZ99	97.8	897.5	C2E21_2211	UDP-glucose 6-dehydrogenase.
+589	KAI7836944.1	3076.A0A2P6TSV6	98.2	440.7	C2E21_4176	3-isopropylmalate dehydratase.
+590	KAI7838891.1	3076.A0A2P6TDC6	92.0	846.7	C2E21_8865	Alpha-1,3-mannosyl-glyco 2-beta-N-acetylglucosaminyltransferase.
+591	KAI7839457.1	3076.A0A2P6TS88	91.7	279.3	C2E21_4394	V-type proton ATPase proteolipid subunit; Proton-conducting pore forming subunit of the membrane integral V0 complex of vacuolar ATPase. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells.
+592	KAI7837637.1	3076.A0A2P6TK17	82.5	1464.1	C2E21_6538	Puromycin-sensitive aminopeptidase isoform X2.
+593	KAI7841633.1	3076.A0A2P6TPB0	57.3	598.6	C2E21_5364	Disulfide isomerase-like 1-2.
+594	KAI7840072.1	3076.A0A2P6TWW5	93.0	679.9	C2E21_2726	Cysteine synthase.
+595	KAI7844090.1	3076.A0A2P6TRT0	89.7	2099.7	C2E21_4469	Valine--tRNA ligase isoform B; Belongs to the class-I aminoacyl-tRNA synthetase family.
+596	KAI7836522.1	3076.A0A2P6TFE3	88.9	310.5	C2E21_8345	3-deoxy-manno-octulosonate mitochondrial isoform B.
+597	KAI7843832.1	3076.A0A2P6TPW1	93.2	1761.1	C2E21_4936	Bifunctional acetaldehyde-alcohol dehydrogenase.
+598	KAI7841362.1	3076.A0A2P6U098	80.1	1483.8	C2E21_1664	Acyl-coenzyme A oxidase peroxisomal isoform A.
+599	KAI7835426.1	3076.A0A2P6TG18	93.1	559.3	C2E21_8071	Prolyl 4-hydroxylase subunit alpha-2.
+600	KAI7841397.1	3076.A0A2P6U128	63.0	1629.0	C2E21_1694	Histone-lysine N-methyltransferase ATX2-like.
+601	KAI7838464.1	3076.A0A2P6TN24	82.0	2714.9	C2E21_5793	ATP-binding cassette superfamily.
+602	KAI7839466.1	3076.A0A2P6TWZ9	88.6	1721.8	C2E21_3191	NAD(P) mitochondrial isoform B.
+603	KAI7846441.1	3076.A0A2P6TNF2	77.0	858.2	C2E21_5438	Beta-hexosaminidase.
+604	KAI7838691.1	3076.A0A2P6U2S7	94.0	854.0	C2E21_0765	Citrate synthase; Belongs to the citrate synthase family.
+605	KAI7840990.1	3076.A0A2P6U4Q6	82.0	423.7	C2E21_0238	Succinate dehydrogenase subunit b560.
+606	KAI7844330.1	3076.A0A2P6TYS1	97.4	533.9	C2E21_2244	Putative tRNA (cytidine(32)/guanosine(34)-2'-O)-methyltransferase; Methylates the 2'-O-ribose of nucleotides at positions 32 and 34 of the tRNA anticodon loop of substrate tRNAs.
+607	KAI7839642.1	3076.A0A2P6TJX3	93.9	278.5	C2E21_6685	Pyruvate:ferredoxin (Flavodoxin) oxidoreductase.
+608	KAI7843508.1	3076.A0A2P6TLI1	96.5	345.9	C2E21_6412	V-type proton ATPase subunit c 1; Belongs to the V-ATPase proteolipid subunit family.
+609	KAI7836112.1	3076.A0A2P6TW21	81.3	1071.6	C2E21_2869	5-nucleotidase domain-containing 4 isoform X1 isoform B.
+610	KAI7837271.1	3076.A0A2P6TS12	96.3	717.6	C2E21_4861	Arginine N-methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. Protein arginine N-methyltransferase family.
+611	KAI7844617.1	3076.A0A2P6U0J1	93.2	212.6	C2E21_1903	Photosystem I reaction center subunit chloroplastic.
+612	KAI7846299.1	3076.A0A2P6TGH4	44.9	361.3	C2E21_7887	Serine threonine-kinase CTR1.
+613	KAI7845228.1	3076.A0A2P6TBU0	72.5	373.6	C2E21_9308	Alcohol dehydrogenase [NADP(+)].
+614	KAI7846059.1	3076.A0A2P6TT88	91.7	939.9	C2E21_3831	Glucose-6-phosphate 1-dehydrogenase; Catalyzes the rate-limiting step of the oxidative pentose- phosphate pathway, which represents a route for the dissimilation of carbohydrates besides glycolysis.
+615	KAI7846233.1	3076.A0A2P6TVG9	95.5	660.2	C2E21_3573	Ribonucleoside-diphosphate reductase small chain isoform B.
+616	KAI7842955.1	3076.A0A2P6TJX4	76.0	768.5	C2E21_6627	Pyruvate decarboxylase 4.
+617	KAI7843063.1	3076.A0A2P6U2U4	93.5	1411.4	C2E21_1052	Starch branching enzyme I.
+618	KAI7845109.1	3076.A0A2P6TLK5	95.7	877.9	C2E21_6428	UDP-glucose pyrophosphorylase.
+619	KAI7846222.1	3076.A0A2P6TVG7	62.2	511.5	C2E21_3567	Methyltransferase 6.
+620	KAI7843379.1	3076.A0A2P6TDL8	90.5	805.4	C2E21_8733	tRNA-specific 2-thiouridylase.
+621	KAI7839261.1	3076.A0A2P6TQU5	98.0	727.6	C2E21_4799	Methionine aminopeptidase 2; Cotranslationally removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met- Ala-, Cys, Gly, Pro, Ser, Thr, or Val).
+622	KAI7842207.1	3076.A0A2P6TSQ4	93.2	486.5	C2E21_4139	Pseudouridylate synthase transporter.
+623	KAI7837976.1	3076.A0A2P6TMZ0	32.6	253.4	C2E21_6033	Alpha-glucosidase isoform B.
+624	KAI7842587.1	3076.A0A2P6TTK6	97.0	709.1	C2E21_4210	V-type proton ATPase subunit C; Subunit of the peripheral V1 complex of vacuolar ATPase. Subunit C is necessary for the assembly of the catalytic sector of the enzyme and is likely to have a specific function in its catalytic activity. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells.
+625	KAI7844701.1	3076.A0A2P6TZQ7	93.6	407.1	C2E21_1981	UMP-CMP kinase; Catalyzes the phosphorylation of pyrimidine nucleoside monophosphates at the expense of ATP. Plays an important role in de novo pyrimidine nucleotide biosynthesis. Has preference for UMP and CMP as phosphate acceptors; Belongs to the adenylate kinase family. UMP-CMP kinase subfamily.
+626	KAI7837822.1	3076.A0A2P6TIC4	95.0	860.5	C2E21_7406	Coproporphyrinogen III oxidase.
+627	KAI7846415.1	3076.A0A2P6TKU6	73.6	1387.1	C2E21_6133	DNA replication factor C complex subunit 5.
+628	KAI7836463.1	3076.A0A2P6TP88	97.6	739.2	C2E21_5619	Homoserine dehydrogenase.
+629	KAI7844054.1	3076.A0A2P6TQ83	87.5	1336.2	C2E21_4867	Amine oxidase.
+630	KAI7843849.1	3076.A0A2P6TQ35	81.9	1637.1	C2E21_5257	Puromycin-sensitive aminopeptidase isoform X1 isoform B.
+631	KAI7841660.1	3076.A0A2P6TLY4	94.7	553.5	C2E21_5894	Alpha beta-hydrolase.
+632	KAI7845925.1	3076.A0A2P6U513	77.9	994.2	C2E21_0373	tRNA-dihydrouridine(47) synthase [NAD(P)(+)].
+633	KAI7840091.1	3076.A0A2P6TX14	88.5	327.4	C2E21_2706	ADP-sugar pyrophosphatase.
+634	KAI7844863.1	3076.A0A2P6U3X4	98.1	845.9	C2E21_0588	Cysteine desulfurase.
+635	KAI7837950.1	3076.A0A2P6TGH4	32.0	296.2	C2E21_7887	Serine threonine-kinase CTR1.
+636	KAI7841264.1	3076.A0A2P6U1E3	89.6	442.2	C2E21_1854	Acetyl-synthetase.
+637	KAI7841989.1	3076.A0A2P6U556	56.1	1285.8	C2E21_0139	Type I polyketide synthase.
+638	KAI7837688.1	3076.A0A2P6TMQ3	90.4	906.7	C2E21_5721	NADH dehydrogenase.
+639	KAI7843021.1	3076.A0A2P6THB3	94.9	419.1	C2E21_7553	Vacuolar ATP synthase subunit E.
+640	KAI7845853.1	3076.A0A2P6TPK2	92.3	797.3	C2E21_5080	MGDG specific palmitate delta-7 desaturase; Belongs to the fatty acid desaturase type 1 family.
+641	KAI7844941.1	3076.A0A2P6U584	78.1	1046.6	C2E21_0525	Serine threonine-kinase CTR1 isoform A.
+642	KAI7845806.1	3076.A0A2P6TFI1	89.3	907.9	C2E21_8126	Adenosylhomocysteinase.
+643	KAI7842572.1	3076.A0A2P6TLI6	95.9	1140.9	C2E21_6234	UDP-sugar pyrophosphorylase 1.
+644	KAI7842018.1	3076.A0A2P6TPB4	64.3	521.9	C2E21_5629	Serine threonine-kinase CTR1.
+645	KAI7845368.1	3076.A0A2P6TEQ8	64.3	1054.7	C2E21_8515	Serine threonine-kinase.
+646	KAI7838933.1	3076.A0A2P6TPU8	88.4	2177.1	C2E21_5287	Starch branching enzyme.
+647	KAI7841017.1	3076.A0A2P6U5M3	100.0	515.8	C2E21_0264	Chlorophyll a-b binding protein, chloroplastic; The light-harvesting complex (LHC) functions as a light receptor, it captures and delivers excitation energy to photosystems with which it is closely associated; Belongs to the light-harvesting chlorophyll a/b-binding (LHC) protein family.
+648	KAI7837358.1	3076.A0A2P6TUB8	97.1	2641.7	C2E21_3356	Magnesium chelatase subunit H.
+649	KAI7845135.1	3076.A0A2P6TT99	97.4	764.6	C2E21_3961	IMP-specific 5-nucleotidase.
+650	KAI7835374.1	3076.A0A2P6U556	64.0	607.8	C2E21_0139	Type I polyketide synthase.
+651	KAI7841786.1	3076.A0A2P6TC07	95.7	564.7	C2E21_9174	Histidine--tRNA chloroplastic mitochondrial.
+652	KAI7837751.1	3076.A0A2P6TCP5	93.1	725.3	C2E21_9115	Glyceraldehyde-3-phosphate dehydrogenase; Belongs to the glyceraldehyde-3-phosphate dehydrogenase family.
+653	KAI7842070.1	3076.A0A2P6TMB0	83.7	1615.9	C2E21_6012	Serine threonine-kinase CTR1 isoform A.
+654	KAI7844648.1	3076.A0A2P6U025	89.4	505.4	C2E21_1930	Bifunctional phosphatase chloroplastic.
+655	KAI7840864.1	3076.A0A2P6U0E4	97.0	603.2	C2E21_1795	Coproporphyrinogen III oxidase.
+656	KAI7846131.1	3076.A0A2P6U1I2	83.9	706.1	C2E21_1740	Endonuclease III.
+657	KAI7839388.1	3076.A0A2P6TSR5	83.6	1139.8	C2E21_4334	N-alpha-acetyltransferase auxiliary subunit.
+658	KAI7840032.1	3076.A0A2P6TKG2	83.5	702.2	C2E21_6651	12-oxophytodienoic acid reductase.
+659	KAI7842651.1	3076.A0A2P6TT68	92.0	324.7	C2E21_4271	Archease-like.
+660	KAI7836125.1	3076.A0A2P6TI18	85.0	767.3	C2E21_7485	Peptidase M20.
+661	KAI7842799.1	3076.A0A2P6U573	80.8	1177.2	C2E21_0304	NAD(H) kinase 1.
+662	KAI7846468.1	3076.A0A2P6TQD8	87.6	849.7	C2E21_5034	NADH dehydrogenase [ubiquinone] flavo mitochondrial.
+663	KAI7842175.1	3076.A0A2P6TG08	48.7	262.7	C2E21_7959	Thiosulfate 3-mercaptopyruvate sulfurtransferase mitochondrial isoform X2.
+664	KAI7836957.1	3076.A0A2P6TY58	72.1	939.5	C2E21_2519	Ubiquinol oxidase; Belongs to the alternative oxidase family.
+665	KAI7845993.1	3076.A0A2P6TPB0	72.7	760.4	C2E21_5364	Disulfide isomerase-like 1-2.
+666	KAI7838585.1	3076.A0A2P6TNR3	61.3	822.8	C2E21_5556	Serine threonine-kinase CTR1.
+667	KAI7839512.1	3076.A0A2P6TC20	92.8	787.7	C2E21_9163	Dihydropterin pyrophosphokinase dihydropteroate synthase.
+668	KAI7838967.1	3076.A0A2P6U5H4	90.4	1165.2	C2E21_0160	Cobalamin-dependent methionine synthase.
+669	KAI7838029.1	3076.A0A2P6U3J6	75.7	659.1	C2E21_0621	Transducin beta 3 isoform B.
+670	KAI7841806.1	3076.A0A2P6TGX9	93.2	1302.3	C2E21_7667	Acetyl-coenzyme A chloroplastic glyoxysomal isoform X1 isoform A.
+671	KAI7843621.1	3076.A0A2P6TIX1	71.0	1657.1	C2E21_7064	Histone-lysine N-methyltransferase ATX2-like.
+672	KAI7838389.1	3076.A0A2P6TU36	81.1	1030.4	C2E21_3683	Sulfate ABC transporter permease subunit.
+673	KAI7839664.1	3076.A0A2P6TXN3	72.2	1261.1	C2E21_2688	DEAD-box ATP-dependent RNA helicase 38; Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family.
+674	KAI7838041.1	3076.A0A2P6TJA4	84.8	779.6	C2E21_6873	Citrate synthase; Belongs to the citrate synthase family.
+675	KAI7840879.1	3076.A0A2P6TZV7	95.6	794.3	C2E21_1807	3-ketoacyl-thiolase peroxisomal; Belongs to the thiolase-like superfamily. Thiolase family.
+676	KAI7841211.1	3076.A0A2P6TFZ9	93.6	1112.4	C2E21_7986	NADP-dependent malic enzyme.
+677	KAI7841502.1	3076.A0A2P6TB70	74.2	1023.1	C2E21_9553	Pyruvate decarboxylase 1; Belongs to the TPP enzyme family.
+678	KAI7840084.1	3076.A0A2P6TVS0	95.2	1832.4	C2E21_2714	Coatomer subunit alpha-1.
+679	KAI7835365.1	3076.A0A2P6TKW3	94.9	664.8	C2E21_6199	Plastid acyl-ACP desaturase.
+680	KAI7845517.1	3076.A0A2P6TB82	88.6	1600.1	C2E21_9506	Large subunit of isopropylmalate dehydratase.
+681	KAI7843911.1	3076.A0A2P6TQ50	86.5	594.0	C2E21_5210	Prolyl 4-hydroxylase subunit alpha-1.
+682	KAI7838192.1	3076.A0A2P6TSZ3	96.2	1210.7	C2E21_4040	Formate--tetrahydrofolate ligase.
+683	KAI7835962.1	3076.A0A2P6TT79	92.8	795.0	C2E21_3786	Phenylalanine--tRNA chloroplastic mitochondrial.
+684	KAI7836927.1	3076.A0A2P6U2E4	97.2	669.8	C2E21_1131	Malate dehydrogenase.
+685	KAI7845218.1	3076.A0A2P6TBZ4	97.5	317.0	C2E21_9320	Nucleoside diphosphate kinase.
+686	KAI7835373.1	3076.A0A2P6U556	68.6	1130.9	C2E21_0139	Type I polyketide synthase.
+687	KAI7838013.1	3076.A0A2P6U3W6	90.8	1469.9	C2E21_0633	Fructose-bisphosphate cytoplasmic isozyme.
+688	KAI7837696.1	3076.A0A2P6TMJ2	90.9	1329.7	C2E21_5734	Ferric-chelate reductase.
+689	KAI7841021.1	3076.A0A2P6U3J8	92.7	936.4	C2E21_0268	Dual specificity kinase splA isoform A.
+690	KAI7835947.1	3076.A0A2P6TK99	83.5	1049.3	C2E21_6532	Mg-protoporphyrin IX chelatase; Involved in chlorophyll biosynthesis. Catalyzes the insertion of magnesium ion into protoporphyrin IX to yield Mg-protoporphyrin IX. Belongs to the Mg-chelatase subunits D/I family.
+691	KAI7844904.1	3076.A0A2P6U3T5	91.3	642.9	C2E21_0556	Porphobilinogen deaminase.
+692	KAI7845370.1	3076.A0A2P6TEA9	93.4	1936.4	C2E21_8513	Calcium-transporting ATPase endoplasmic reticulum-type isoform B; Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+693	KAI7842112.1	3076.A0A2P6TMU5	95.2	701.8	C2E21_5980	Nicotinamide-nucleotide adenylyltransferase.
+694	KAI7837674.1	3076.A0A2P6TBL3	95.1	521.9	C2E21_9416	NADH-cytochrome b5 reductase; Belongs to the flavoprotein pyridine nucleotide cytochrome reductase family.
+695	KAI7837984.1	3076.A0A2P6U5M4	87.6	802.4	C2E21_0648	NO-associated chloroplastic mitochondrial.
+696	KAI7841008.1	3076.A0A2P6U405	96.7	605.1	C2E21_0252	Anthranilate phosphoribosyltransferase.
+697	KAI7835500.1	3076.A0A2P6TUQ0	90.6	1191.0	C2E21_3535	Pyruvate kinase isoform B.
+698	KAI7845401.1	3076.A0A2P6TEJ0	91.1	689.5	C2E21_8481	Alcohol dehydrogenase [NADP(+)].
+699	KAI7841882.1	3076.A0A2P6U0A6	76.4	504.2	C2E21_1622	Diacylglycerol acyltransferase.
+700	KAI7841360.1	3076.A0A2P6TZX5	90.2	516.9	C2E21_1663	(1-3)-beta-glucanase.
+701	KAI7842552.1	3076.A0A2P6TGI3	48.2	549.3	C2E21_7743	Multicopper oxidase; Belongs to the multicopper oxidase family.
+702	KAI7844827.1	3076.A0A2P6TDR5	82.9	414.5	C2E21_8688	IAA-amino acid hydrolase ILR1-like 3.
+703	KAI7846075.1	3076.A0A2P6TS70	96.9	475.7	C2E21_3814	U5 small nuclear ribonucleo 40 kDa.
+704	KAI7837581.1	3076.A0A2P6U2H3	74.7	857.4	C2E21_0897	Ankyrin repeat.
+705	KAI7841087.1	3076.A0A2P6TKK9	84.8	797.3	C2E21_6513	Metal transporter Nramp3.
+706	KAI7836755.1	3076.A0A2P6TS82	88.0	198.7	C2E21_3856	Haloacid dehalogenase-like hydrolase superfamily isoform 1.
+707	KAI7842730.1	3076.A0A2P6U2A0	91.3	963.8	C2E21_0996	ADP-glucose pyrophosphorylase small subunit isoform B.
+709	KAI7835527.1	3076.A0A2P6TWM7	86.1	885.6	C2E21_3061	Glucose-6-phosphate isomerase; Belongs to the GPI family.
+710	KAI7838924.1	3076.A0A2P6TFC5	76.5	3154.4	C2E21_8307	Serine threonine-kinase CTR1.
+711	KAI7840338.1	3076.A0A2P6TBQ9	83.2	1092.8	C2E21_9291	NADPH-dependent diflavin oxidoreductase 1; Component of the cytosolic iron-sulfur (Fe-S) protein assembly (CIA) machinery. Required for the maturation of extramitochondrial Fe-S proteins. Part of an electron transfer chain functioning in an early step of cytosolic Fe-S biogenesis. Transfers electrons from NADPH to the Fe-S cluster of the anamorsin/DRE2 homolog. Belongs to the NADPH-dependent diflavin oxidoreductase NDOR1 family. In the N-terminal section; belongs to the flavodoxin family.
+712	KAI7835803.1	3076.A0A2P6TRA0	90.1	1341.6	C2E21_4550	5-methyltetrahydropteroyltriglutamate--homoc ysteine s-methyltransferase.
+713	KAI7842023.1	3076.A0A2P6U3A2	93.7	270.8	C2E21_0938	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13-B.
+714	KAI7843885.1	3076.A0A2P6TQM7	81.0	853.6	C2E21_5229	Lycopene epsilon cyclase.
+715	KAI7839398.1	3076.A0A2P6TTL7	92.6	1026.9	C2E21_4348	Glutamate decarboxylase; Belongs to the group II decarboxylase family.
+716	KAI7842057.1	3076.A0A2P6TM47	74.4	923.3	C2E21_6027	Sulfite mitochondrial.
+717	KAI7841624.1	3076.A0A2P6TWE7	93.9	783.9	C2E21_2991	Aspartate aminotransferase.
+718	KAI7837675.1	3076.A0A2P6TPZ2	94.0	1144.8	C2E21_5010	NADP-dependent malic enzyme.
+719	KAI7838879.1	3076.A0A2P6TDE1	91.1	982.6	C2E21_8850	Allophanate hydrolase.
+720	KAI7837279.1	3076.A0A2P6TRF4	86.9	796.2	C2E21_4851	Lysophospholipid acyltransferase 1-like; Belongs to the membrane-bound acyltransferase family.
+721	KAI7839001.1	3076.A0A2P6TWU3	88.6	959.9	C2E21_2898	Uridine kinase; Belongs to the uridine kinase family.
+722	KAI7841938.1	3076.A0A2P6TZS5	90.9	901.4	C2E21_1561	Lysosomal acid lipase cholesteryl ester hydrolase.
+723	KAI7844137.1	3076.A0A2P6TRX2	91.4	528.1	C2E21_4510	Prolyl 4-hydroxylase subunit alpha-1.
+724	KAI7843313.1	3076.A0A2P6TJ96	85.5	599.0	C2E21_7091	Manganese-dependent ADP-ribose CDP-alcohol diphosphatase-like.
+725	KAI7842056.1	3076.A0A2P6TM47	78.7	994.6	C2E21_6027	Sulfite mitochondrial.
+726	KAI7843958.1	3076.A0A2P6TPG2	95.9	489.6	C2E21_5172	Pyrroline-5-carboxylate reductase; Belongs to the pyrroline-5-carboxylate reductase family.
+727	KAI7839402.1	3076.A0A2P6TTA9	82.2	852.0	C2E21_4350	FAD-dependent oxidoreductase.
+728	KAI7835432.1	3076.A0A2P6TFM3	89.7	518.5	C2E21_8069	Prolyl 4-hydroxylase subunit alpha-2 isoform B.
+729	KAI7835392.1	3076.A0A2P6TDD1	94.4	1599.3	C2E21_8797	Ribonucleoside-diphosphate reductase; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides.
+730	KAI7842327.1	3076.A0A2P6TZC6	93.1	887.5	C2E21_2120	Protein disulfide-isomerase.
+731	KAI7843526.1	3076.A0A2P6TG63	83.5	1010.0	C2E21_7869	Branched chain amino acid aminotransferase.
+732	KAI7840759.1	3076.A0A2P6TDF9	97.0	441.8	C2E21_8768	Aspartyl glutamyl-tRNA amidotransferase subunit A.
+733	KAI7836387.1	3076.A0A2P6TZC4	93.8	1055.8	C2E21_2621	Type-II calcium-dependent NADH dehydrogenase isoform B.
+734	KAI7841722.1	3076.A0A2P6TS56	87.4	636.7	C2E21_4427	Putative prolyl 4-hydroxylase 4.
+735	KAI7843367.1	3076.A0A2P6TQX8	95.3	1531.2	C2E21_4536	Glutamine--tRNA ligase; Belongs to the class-I aminoacyl-tRNA synthetase family.
+736	KAI7835559.1	3076.A0A2P6U1E2	47.1	698.0	C2E21_1736	Serine threonine-kinase CTR1 isoform A.
+737	KAI7841324.1	3076.A0A2P6TZB2	79.4	1608.6	C2E21_2382	Ubiquitin-ligase E3.
+738	KAI7841124.1	3076.A0A2P6TG73	97.5	612.5	C2E21_7768	Phosphoglycolate phosphatase.
+739	KAI7842012.1	3076.A0A2P6U337	91.5	1228.0	C2E21_0947	Long chain acyl-synthetase 4.
+740	KAI7845573.1	3076.A0A2P6TDP6	99.3	284.6	C2E21_8841	Uracil phosphoribosyltransferase.
+741	KAI7845569.1	3076.A0A2P6TDB5	70.4	818.9	C2E21_8837	Notchless-like protein.
+742	KAI7837147.1	3076.A0A2P6THN2	76.2	817.4	C2E21_7428	tRNA 2-thiouridine(34) synthase isoform A.
+743	KAI7845979.1	3076.A0A2P6U4R4	97.6	901.0	C2E21_0173	UDP-glucose 6-dehydrogenase.
+744	KAI7843186.1	3076.A0A2P6THB2	84.8	229.6	C2E21_7569	Photosystem I subunit O.
+745	KAI7845967.1	3076.A0A2P6U511	90.5	303.9	C2E21_0412	Adenylyl-sulfate kinase; Catalyzes the synthesis of activated sulfate.
+746	KAI7845587.1	3076.A0A2P6TWR7	90.7	2627.0	C2E21_2821	DNA (cytosine-5)-methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. C5-methyltransferase family.
+747	KAI7843826.1	3076.A0A2P6TQI6	89.3	902.5	C2E21_4931	Threonylcarbamoyladenosine tRNA methylthiotransferase.
+748	KAI7843602.1	3076.A0A2P6TIY7	91.8	1028.5	C2E21_7080	Long-chain-fatty-acid--ligase.
+749	KAI7837868.1	3076.A0A2P6TJ44	69.9	502.7	C2E21_6969	Uncharacterized protein.
+750	KAI7836523.1	3076.A0A2P6TFE3	91.5	349.7	C2E21_8345	3-deoxy-manno-octulosonate mitochondrial isoform B.
+751	KAI7841512.1	3076.A0A2P6TXQ6	86.2	1389.8	C2E21_2475	Putative beta-D-xylosidase 7.
+752	KAI7839496.1	3076.A0A2P6TCG2	96.3	976.5	C2E21_9150	Glucose-1-phosphate adenylyltransferase; This protein plays a role in synthesis of starch. It catalyzes the synthesis of the activated glycosyl donor, ADP-glucose from Glc-1-P and ATP.
+753	KAI7845805.1	3076.A0A2P6TFI1	84.0	889.8	C2E21_8126	Adenosylhomocysteinase.
+754	KAI7839438.1	3076.A0A2P6TT87	83.6	1123.6	C2E21_4383	Type I glyceraldehyde-3-phosphate dehydrogenase; Belongs to the glyceraldehyde-3-phosphate dehydrogenase family.
+755	KAI7835802.1	3076.A0A2P6TRA0	87.5	1316.2	C2E21_4550	5-methyltetrahydropteroyltriglutamate--homoc ysteine s-methyltransferase.
+756	KAI7835669.1	3076.A0A2P6TJ70	55.4	572.4	C2E21_6928	Sulfatase.
+757	KAI7835657.1	3076.A0A2P6TCS7	75.3	1315.8	C2E21_8994	Acyl-dehydrogenase family member 10.
+758	KAI7838880.1	3076.A0A2P6TD88	89.0	272.3	C2E21_8851	Allophanate hydrolase.
+759	KAI7843320.1	3076.A0A2P6TJD3	79.9	1315.8	C2E21_7099	Pyridine nucleotide-disulfide oxidoreductase.
+760	KAI7844649.1	3076.A0A2P6U0M9	98.8	821.6	C2E21_1931	Diaminopimelate decarboxylase chloroplastic.
+761	KAI7835977.1	3076.A0A2P6TJK8	89.8	1079.3	C2E21_6583	Serine threonine-kinase CTR1.
+762	KAI7843112.1	3076.A0A2P6U2V9	91.8	448.0	C2E21_1095	Ribulose-phosphate 3-cytoplasmic isoform.
+763	KAI7844818.1	3076.A0A2P6TJQ0	98.1	311.6	C2E21_6771	N-alpha-acetyltransferase daf-31.
+764	KAI7844557.1	3076.A0A2P6TWR9	98.2	714.5	C2E21_3124	Acetolactate synthase small subunit chloroplastic-like.
+765	KAI7837180.1	3076.A0A2P6U3C7	85.1	933.3	C2E21_1261	alpha-1,2-Mannosidase; Belongs to the glycosyl hydrolase 47 family.
+766	KAI7837907.1	3076.A0A2P6U537	89.1	707.6	C2E21_0166	Methionine aminopeptidase; Cotranslationally removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met- Ala-, Cys, Gly, Pro, Ser, Thr, or Val).
+767	KAI7841884.1	3076.A0A2P6U006	94.6	1424.8	C2E21_1621	Acyl-synthetase AMP-acid ligase.
+768	KAI7835999.1	3076.A0A2P6TR00	90.8	586.3	C2E21_4562	Glyoxysomal fatty acid beta-oxidation multifunctional MFP-a.
+769	KAI7846430.1	3076.A0A2P6TNW7	83.9	865.1	C2E21_5443	Protoporphyrinogen oxidase chloroplastic.
+770	KAI7846119.1	3076.A0A2P6U175	85.7	848.2	C2E21_1729	Alpha-galactosidase.
+771	KAI7845816.1	3076.A0A2P6TFQ3	92.3	1921.7	C2E21_8118	Translation factor GUF1 homolog, chloroplastic; Promotes chloroplast protein synthesis. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+772	KAI7838584.1	3076.A0A2P6TP79	91.2	1263.4	C2E21_5554	Triacylglycerol lipase SDP1.
+773	KAI7838186.1	3076.A0A2P6TSW8	86.5	1701.4	C2E21_4047	Kinase.
+774	KAI7837626.1	3076.A0A2P6TKL3	89.6	962.6	C2E21_6549	Acetohydroxy acid isomeroreductase isoform B; Belongs to the ketol-acid reductoisomerase family.
+775	KAI7837525.1	3076.A0A2P6TT27	81.9	996.5	C2E21_4298	Cytochrome CYP711 clan; Belongs to the cytochrome P450 family.
+776	KAI7843397.1	3076.A0A2P6TDM4	85.8	1080.9	C2E21_8716	Ceramide kinase isoform X2.
+777	KAI7841548.1	3076.A0A2P6TVP5	95.1	996.1	C2E21_2927	NEDD8-activating enzyme E1 regulatory subunit; Regulatory subunit of the dimeric E1 enzyme. E1 activates RUB1/NEDD8 by first adenylating its C-terminal glycine residue with ATP, thereafter linking this residue to the side chain of the catalytic cysteine, yielding a RUB1-ECR1 thioester and free AMP. E1 finally transfers RUB1 to the catalytic cysteine of RCE1. Belongs to the ubiquitin-activating E1 family. ULA1 subfamily.
+778	KAI7841455.1	3076.A0A2P6TMT0	87.6	901.7	C2E21_5714	Ferrochelatase-chloroplastic; Belongs to the ferrochelatase family.
+779	KAI7846244.1	3076.A0A2P6TK75	81.2	1201.8	C2E21_6714	Lysine-specific histone demethylase 1-like protein 3 isoform B.
+780	KAI7835308.1	3076.A0A2P6TVN5	76.3	389.8	C2E21_3056	Serine threonine-kinase SAPK3-like; Belongs to the protein kinase superfamily.
+781	KAI7836759.1	3076.A0A2P6TNE9	91.2	686.4	C2E21_5508	Putative trans-2-enoyl-mitochondrial.
+782	KAI7845744.1	3076.A0A2P6TFT1	94.3	1365.1	C2E21_8175	Long chain acyl-synthetase peroxisomal.
+783	KAI7845829.1	3076.A0A2P6U326	98.0	807.4	C2E21_1145	Alanine-glyoxylate transaminase.
+784	KAI7842764.1	3076.A0A2P6TGF4	94.9	1035.8	C2E21_7888	Apple domain-containing protein.
+785	KAI7837618.1	3076.A0A2P6TJN6	79.6	1827.8	C2E21_6554	DNA (cytosine-5)-methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. C5-methyltransferase family.
+786	KAI7838318.1	3076.A0A2P6TLN3	89.5	590.1	C2E21_6375	Carboxylic ester hydrolase.
+787	KAI7841253.1	3076.A0A2P6U0Q9	85.3	491.9	C2E21_1864	Superoxide dismutase.
+788	KAI7836701.1	3076.A0A2P6TW26	91.0	390.2	C2E21_3043	Aldo keto reductase family.
+789	KAI7840508.1	3076.A0A2P6TXI9	79.4	1739.9	C2E21_2570	ABC transporter A family member 2.
+790	KAI7846122.1	3076.A0A2P6U0E9	44.9	251.1	C2E21_1731	Alpha-galactosidase.
+791	KAI7846055.1	3076.A0A2P6TTR0	97.4	934.5	C2E21_3837	Aspartokinase; Belongs to the aspartokinase family.
+792	KAI7842983.1	3076.A0A2P6TXH4	92.2	415.2	C2E21_2539	N-methyltryptophan oxidase isoform C.
+793	KAI7838259.1	3076.A0A2P6TFJ4	92.3	280.8	C2E21_8023	DNA mismatch repair; Belongs to the Nudix hydrolase family.
+794	KAI7843636.1	3076.A0A2P6TJ87	99.3	293.5	C2E21_7053	Ubiquitin-conjugating enzyme E2 28-like; Belongs to the ubiquitin-conjugating enzyme family.
+795	KAI7838862.1	3076.A0A2P6TC17	81.4	511.5	C2E21_9189	Prostaglandin E synthase 2-like; Belongs to the peptidase S1 family.
+796	KAI7844166.1	3076.A0A2P6TPB4	68.3	467.6	C2E21_5629	Serine threonine-kinase CTR1.
+797	KAI7840653.1	3076.A0A2P6TP58	64.4	333.2	C2E21_5668	Histone-lysine N-methyltransferase.
+797	KAI7840653.1	3076.A0A2P6TP58	57.0	81.6	C2E21_5668	Histone-lysine N-methyltransferase.
+798	KAI7838757.1	3076.A0A2P6TUJ2	98.4	1033.5	C2E21_3730	Catalase; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide.
+799	KAI7839727.1	3076.A0A2P6TX53	78.8	788.9	C2E21_3165	Blue-light photoreceptor.
+800	KAI7843652.1	3076.A0A2P6TUK0	77.0	809.3	C2E21_3393	Sulfite mitochondrial.
+801	KAI7843054.1	3076.A0A2P6U2C5	92.6	981.5	C2E21_1048	Aldehyde dehydrogenase; Belongs to the aldehyde dehydrogenase family.
+802	KAI7842573.1	3076.A0A2P6TKN3	98.3	696.4	C2E21_6233	Fructose-1,6-chloroplastic; Belongs to the FBPase class 1 family.
+803	KAI7836621.1	3076.A0A2P6U011	80.7	2810.8	C2E21_1778	Nitrilase 2 isoform B.
+804	KAI7845327.1	3076.A0A2P6TMJ4	75.4	1132.9	C2E21_5915	Phosphatidylserine decarboxylase proenzyme 2-like isoform X1.
+805	KAI7836622.1	3076.A0A2P6U011	78.8	965.3	C2E21_1778	Nitrilase 2 isoform B.
+806	KAI7845646.1	3076.A0A2P6TJI5	94.1	407.1	C2E21_6783	Octanoyltransferase.
+807	KAI7844144.1	3076.A0A2P6TS75	80.7	1563.9	C2E21_3947	Phosphoglucomutase PGM3 isoform A; Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family.
+808	KAI7838596.1	3076.A0A2P6TJ33	73.3	1697.6	C2E21_7135	Phosphatase 2C 22.
+809	KAI7843182.1	3076.A0A2P6TGX0	81.3	1070.8	C2E21_7573	Transcription factor 25.
+810	KAI7840199.1	3076.A0A2P6U0F1	89.2	980.7	C2E21_1418	Alpha-1,3-mannosyl-glyco 2-beta-N-acetylglucosaminyltransferase.
+811	KAI7840588.1	3076.A0A2P6TEM0	83.8	1090.9	C2E21_8429	Glycerophosphodiesterase GDE1 isoform B.
+812	KAI7835730.1	3076.A0A2P6TI59	86.1	2301.6	C2E21_7486	Carbamoyl-phosphate synthase large chloroplastic.
+813	KAI7841707.1	3076.A0A2P6TRV3	80.8	1192.2	C2E21_4416	Putative ubiquitin-conjugating enzyme E2.
+814	KAI7845366.1	3076.A0A2P6TEN0	78.2	1445.6	C2E21_8517	Arabinanase levansucrase invertase.
+815	KAI7840794.1	3076.A0A2P6TTU9	88.2	466.1	C2E21_4020	NADH-cytochrome b5 reductase.
+816	KAI7836525.1	3076.A0A2P6TF77	76.2	1097.4	C2E21_8343	Cytochrome p450 isoform B.
+817	KAI7841363.1	3076.A0A2P6U0B8	83.6	1161.4	C2E21_1666	Cytochrome P450.
+818	KAI7840346.1	3076.A0A2P6TBT0	86.3	852.0	C2E21_9281	Putative arginine N-methyltransferase 3; Belongs to the class I-like SAM-binding methyltransferase superfamily. Protein arginine N-methyltransferase family.
+819	KAI7841497.1	3076.A0A2P6TB37	82.9	922.2	C2E21_9560	Purple acid phosphatase; Belongs to the metallophosphoesterase superfamily. Purple acid phosphatase family.
+820	KAI7844766.1	3076.A0A2P6TNR0	93.6	1072.8	C2E21_5399	Triacylglycerol lipase SDP1.
+821	KAI7837089.1	3076.A0A2P6TI85	85.6	1295.0	C2E21_7343	Cysteinyl-tRNA synthetase isoform B.
+822	KAI7845514.1	3076.A0A2P6TBB7	93.5	590.5	C2E21_9503	U4 U6 small nuclear ribonucleo PRP4.
+823	KAI7836929.1	3076.A0A2P6U2Y4	95.5	768.1	C2E21_1132	S-(hydroxymethyl)glutathione dehydrogenase; Belongs to the zinc-containing alcohol dehydrogenase family. Class-III subfamily.
+824	KAI7842014.1	3076.A0A2P6U315	89.6	498.4	C2E21_0944	Steroid 5-alpha-reductase DET2; Involved in a reduction step in the biosynthesis of the plant steroid, brassinolide.
+825	KAI7838168.1	3076.A0A2P6TSY8	91.3	1224.9	C2E21_4064	Lipoyl synthase, mitochondrial; Catalyzes the radical-mediated insertion of two sulfur atoms into the C-6 and C-8 positions of the octanoyl moiety bound to the lipoyl domains of lipoate-dependent enzymes, thereby converting the octanoylated domains into lipoylated derivatives.
+826	KAI7844226.1	3076.A0A2P6TZ91	99.4	624.8	C2E21_2342	6-phosphogluconate dehydrogenase, decarboxylating; Belongs to the 6-phosphogluconate dehydrogenase family.
+827	KAI7839093.1	3076.A0A2P6TD11	91.0	2248.8	C2E21_8932	Pyruvate carboxylase isoform B.
+828	KAI7837420.1	3076.A0A2P6TB33	98.1	325.1	C2E21_9551	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides; Belongs to the cyclophilin-type PPIase family.
+829	KAI7837908.1	3076.A0A2P6U4S6	97.0	185.7	C2E21_0167	Photosystem I reaction center subunit IV.
+830	KAI7838948.1	3076.A0A2P6TQI2	99.0	593.6	C2E21_5298	Sedoheptulose-1,7-chloroplastic.
+831	KAI7840511.1	3076.A0A2P6TYN3	91.3	675.2	C2E21_2565	Fructose-bisphosphate aldolase; Belongs to the class I fructose-bisphosphate aldolase family.
+832	KAI7836146.1	3076.A0A2P6TI73	91.6	836.6	C2E21_7466	Folylpolyglutamate synthase; Catalyzes conversion of folates to polyglutamate derivatives allowing concentration of folate compounds in the cell and the intracellular retention of these cofactors, which are important substrates for most of the folate-dependent enzymes that are involved in one-carbon transfer reactions involved in purine, pyrimidine and amino acid synthesis; Belongs to the folylpolyglutamate synthase family.
+833	KAI7841107.1	3076.A0A2P6TX31	91.5	731.5	C2E21_2753	Cystathionine gamma-synthase.
+834	KAI7842323.1	3076.A0A2P6TYJ8	85.1	1773.4	C2E21_2124	ABC transporter A family member 2.
+835	KAI7842723.1	3076.A0A2P6U1R9	96.6	689.1	C2E21_0989	Farnesyl diphosphate synthase.
+836	KAI7844975.1	3076.A0A2P6TQS6	93.8	2413.3	C2E21_4748	Ubiquitin-ligase E3 A.
+837	KAI7842916.1	3076.A0A2P6U0D8	95.7	632.5	C2E21_1895	Protease Do-like chloroplastic isoform X1.
+838	KAI7842469.1	3076.A0A2P6TN36	89.0	1147.1	C2E21_5496	Long chain acyl-synthetase 4.
+839	KAI7837953.1	3076.A0A2P6TKZ5	88.3	711.8	C2E21_6319	Cysteine desulfurase.
+840	KAI7844352.1	3076.A0A2P6TZ14	92.7	255.8	C2E21_2228	POC1 centriolar-like protein A-like isoform X1.
+841	KAI7844607.1	3076.A0A2P6TBP4	84.6	915.2	GATB	Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial; Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in chloroplasts and mitochondria. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu-tRNA(Gln). Belongs to the GatB/GatE family. GatB subfamily.
+842	KAI7836103.1	3076.A0A2P6TX13	98.2	357.1	C2E21_2862	Ubiquitin-fold modifier-conjugating enzyme 1; E2-like enzyme which forms an intermediate with UFM1 via a thioester linkage.
+843	KAI7841295.1	3076.A0A2P6TYI9	91.2	762.7	C2E21_2358	ATP-citrate lyase A-1.
+844	KAI7837479.1	3076.A0A2P6TP43	92.2	728.8	C2E21_5589	ATP-dependent zinc metalloprotease FTSH chloroplastic isoform B.
+845	KAI7845588.1	3076.A0A2P6TWR7	90.5	2622.0	C2E21_2821	DNA (cytosine-5)-methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. C5-methyltransferase family.
+846	KAI7840878.1	3076.A0A2P6TZH8	95.5	527.3	C2E21_1806	Hydroxyacylglutathione hydrolase.
+847	KAI7838580.1	3076.A0A2P6TNR3	56.7	497.3	C2E21_5556	Serine threonine-kinase CTR1.
+848	KAI7843038.1	3076.A0A2P6TH57	93.9	1081.6	C2E21_7565	Anthranilate synthase alpha subunit chloroplastic-like.
+849	KAI7839423.1	3076.A0A2P6TTJ8	94.8	941.4	C2E21_4370	5-oxoprolinase.
+850	KAI7843456.1	3076.A0A2P6THR9	91.2	1133.2	C2E21_7207	tRNA uridine(34) 5-carboxymethylaminomethyl synthesis enzyme isoform B.
+851	KAI7839389.1	3076.A0A2P6TTW4	76.6	446.8	C2E21_4335	Oxygen-evolving enhancer chloroplastic.
+852	KAI7838600.1	3076.A0A2P6TJ12	60.4	619.0	C2E21_7132	tRNA pseudouridine synthase Pus10.
+853	KAI7837048.1	3076.A0A2P6U3E9	96.4	580.5	C2E21_1316	2-isopropylmalate synthase.
+854	KAI7845099.1	3076.A0A2P6TLE4	62.2	1503.4	C2E21_6438	Purple acid phosphatase.
+855	KAI7835631.1	3076.A0A2P6TL15	97.8	546.6	C2E21_6204	Bifunctional dihydrofolate reductase-thymidylate synthase; Bifunctional enzyme. Involved in de novo dTMP biosynthesis. Key enzyme in folate metabolism; In the C-terminal section; belongs to the thymidylate synthase family.
+856	KAI7836039.1	3076.A0A2P6TEG9	78.1	847.8	C2E21_8387	Putative apyrase 7; Belongs to the GDA1/CD39 NTPase family.
+857	KAI7844815.1	3076.A0A2P6TKF7	89.5	643.3	C2E21_6767	Protease Do-like chloroplastic.
+858	KAI7845742.1	3076.A0A2P6TCY4	87.1	702.6	C2E21_9016	Putative methyltransferase chloroplastic.
+859	KAI7843663.1	3076.A0A2P6TUD6	75.7	469.9	C2E21_3400	3-ketoacyl-thiolase peroxisomal.
+860	KAI7836785.1	3076.A0A2P6TDG0	91.1	1914.0	C2E21_8876	Ubiquitin-activating enzyme E1 2 isoform B; Belongs to the ubiquitin-activating E1 family.
+861	KAI7839446.1	3076.A0A2P6TNV6	62.0	276.2	C2E21_5344	Carbonic anhydrase.
+862	KAI7846232.1	3076.A0A2P6TVG9	84.4	632.1	C2E21_3573	Ribonucleoside-diphosphate reductase small chain isoform B.
+863	KAI7841046.1	3076.A0A2P6TMI4	96.9	995.3	C2E21_6100	Threonine dehydratase.
+864	KAI7843050.1	3076.A0A2P6U4J7	46.8	295.4	C2E21_0678	Serine threonine-kinase CTR1.
+865	KAI7836613.1	3076.A0A2P6U193	80.8	777.3	C2E21_1787	Cysteine desulfurase.
+866	KAI7841585.1	3076.A0A2P6TW76	76.0	835.9	C2E21_2964	Acetyltransferase component of pyruvate dehydrogenase complex; The pyruvate dehydrogenase complex catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2).
+867	KAI7841014.1	3076.A0A2P6U3Z0	87.1	851.7	C2E21_0259	SUMO-activating enzyme subunit; Belongs to the ubiquitin-activating E1 family.
+868	KAI7841263.1	3076.A0A2P6U1E3	59.5	320.9	C2E21_1854	Acetyl-synthetase.
+869	KAI7841183.1	3076.A0A2P6TG08	92.1	433.3	C2E21_7959	Thiosulfate 3-mercaptopyruvate sulfurtransferase mitochondrial isoform X2.
+870	KAI7838071.1	3076.A0A2P6TDS2	87.0	712.6	C2E21_8661	Embryogenesis-associated EMB8.
+871	KAI7845595.1	3076.A0A2P6TW01	89.9	771.2	C2E21_2816	Cysteine synthase 2.
+872	KAI7839810.1	3076.A0A2P6TGG7	91.6	1073.5	C2E21_7947	ABC transporter F family member 5.
+873	KAI7840281.1	3076.A0A2P6TZU5	97.9	463.4	C2E21_1499	Adenylate kinase; Belongs to the adenylate kinase family.
+874	KAI7840070.1	3076.A0A2P6TWV1	87.5	881.7	C2E21_2729	Protein disulfide-isomerase.
+875	KAI7845353.1	3076.A0A2P6TEN8	90.9	575.1	C2E21_8528	Malate dehydrogenase.
+876	KAI7837049.1	3076.A0A2P6U3E9	85.7	491.5	C2E21_1316	2-isopropylmalate synthase.
+877	KAI7840998.1	3076.A0A2P6U3S8	96.8	1412.9	C2E21_0242	Threonyl-tRNA synthetase.
+878	KAI7840638.1	3076.A0A2P6TKW1	55.7	818.9	C2E21_6368	Cysteine synthase; Belongs to the cysteine synthase/cystathionine beta- synthase family.
+879	KAI7836378.1	3076.A0A2P6TZ96	88.8	766.5	C2E21_2627	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of ATP and thus represents the only step of substrate-level phosphorylation in the TCA. The beta subunit provides nucleotide specificity of the enzyme and binds the substrate succinate, while the binding sites for coenzyme A and phosphate are found in the alpha subunit.
+880	KAI7841430.1	3076.A0A2P6TBB8	94.0	1361.3	C2E21_9460	STT3 subunit of Oligosaccharyl transferase.
+881	KAI7835491.1	3076.A0A2P6TNL0	69.5	951.0	C2E21_5529	Serine threonine-kinase.
+882	KAI7837710.1	3076.A0A2P6TMW8	66.5	215.3	C2E21_5743	Aldehyde oxidoreductase isoform A.
+883	KAI7846350.1	3076.A0A2P6U3S7	98.2	337.8	C2E21_0203	Ubiquitin-conjugating enzyme E2 7; Belongs to the ubiquitin-conjugating enzyme family.
+884	KAI7837386.1	3076.A0A2P6TB56	97.1	916.4	C2E21_9520	Signal recognition particle 54 kDa protein; Binds to the signal sequence of presecretory protein when they emerge from the ribosomes and transfers them to TRAM (translocating chain-associating membrane protein). Belongs to the GTP-binding SRP family. SRP54 subfamily.
+885	KAI7846180.1	3076.A0A2P6U4N8	98.0	704.5	C2E21_0056	Pyruvate dehydrogenase E1 component subunit alpha; The pyruvate dehydrogenase complex catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2).
+886	KAI7837256.1	3076.A0A2P6TYH1	95.3	677.2	C2E21_2027	Glycerol-3-phosphate dehydrogenase [NAD(+)].
+887	KAI7844367.1	3076.A0A2P6TY36	97.3	289.3	C2E21_2213	Nucleoside diphosphate kinase.
+888	KAI7840219.1	3076.A0A2P6TZN3	100.0	174.9	C2E21_1440	Ubiquitin-conjugating enzyme E2 36; Belongs to the ubiquitin-conjugating enzyme family.
+889	KAI7845407.1	3076.A0A2P6TEM1	67.0	1743.0	C2E21_8490	Putative polyamine oxidase 4.
+890	KAI7835975.1	3076.A0A2P6TK21	94.3	383.3	C2E21_6585	NEDD8-conjugating enzyme Ubc12-like.
+891	KAI7838261.1	3076.A0A2P6TFH0	88.3	689.5	C2E21_8025	Queuine tRNA-ribosyltransferase accessory subunit 2; Non-catalytic subunit of the queuine tRNA-ribosyltransferase (TGT) that catalyzes the base-exchange of a guanine (G) residue with queuine (Q) at position 34 (anticodon wobble position) in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His and -Tyr), resulting in the hypermodified nucleoside queuosine (7-(((4,5-cis-dihydroxy-2- cyclopenten-1-yl)amino)methyl)-7-deazaguanosine); Belongs to the queuine tRNA-ribosyltransferase family. QTRT2 subfamily.
+892	KAI7841623.1	3076.A0A2P6TWE7	98.0	825.9	C2E21_2991	Aspartate aminotransferase.
+893	KAI7841105.1	3076.A0A2P6TVY8	62.6	865.1	C2E21_2761	3-oxoacyl-ACP reductase.
+894	KAI7840714.1	3076.A0A2P6TWI5	86.5	477.6	C2E21_3269	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides; Belongs to the cyclophilin-type PPIase family.
+895	KAI7842466.1	3076.A0A2P6TP65	87.7	1449.9	C2E21_5500	Bifunctional aspartokinase homoserine dehydrogenase chloroplastic-like; Belongs to the CRISP family.
+896	KAI7844259.1	3076.A0A2P6TXK7	86.5	1711.4	C2E21_2317	NAD(P) mitochondrial isoform B.
+897	KAI7845616.1	3076.A0A2P6TVY5	88.5	662.1	C2E21_2798	Ferredoxin-NADP+ reductase.
+898	KAI7842375.1	3076.A0A2P6TYS6	88.6	1308.9	C2E21_2074	NADH:ubiquinone oxidoreductase 76 kDa subunit; Belongs to the complex I 75 kDa subunit family.
+899	KAI7842722.1	3076.A0A2P6U3D8	91.4	356.7	C2E21_0988	Peptide-methionine (R)-S-oxide reductase; Catalyzes the reduction of methionine sulfoxide (MetSO) to methionine in proteins. Plays a protective role against oxidative stress by restoring activity to proteins that have been inactivated by methionine oxidation. MSRB family specifically reduces the MetSO R- enantiomer.
+900	KAI7842857.1	3076.A0A2P6THB9	90.3	1126.3	C2E21_7652	2,3-bisphosphoglycerate-independent phosphoglycerate mutase isoform D.
+901	KAI7837215.1	3076.A0A2P6TGC6	90.2	226.5	C2E21_7809	D-lactate dehydrogenase; Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family.
+902	KAI7842938.1	3076.A0A2P6TR73	78.5	1605.1	C2E21_4564	Serine threonine-kinase CTR1.
+903	KAI7836807.1	3076.A0A2P6TKD0	96.5	1208.0	C2E21_6572	ATP-citrate synthase beta chain 1-like.
+904	KAI7835366.1	3076.A0A2P6TLF9	89.8	893.6	C2E21_6198	Tyrosine decarboxylase 1-like.
+905	KAI7843062.1	3076.A0A2P6U2U4	93.5	1411.0	C2E21_1052	Starch branching enzyme I.
+906	KAI7843445.1	3076.A0A2P6TI31	89.9	804.3	C2E21_7221	Phosphatidate cytidylyltransferase; Belongs to the CDS family.
+907	KAI7844624.1	3076.A0A2P6U0N3	92.0	1351.3	C2E21_1911	Pyruvate kinase; Belongs to the pyruvate kinase family.
+908	KAI7840931.1	3076.A0A2P6TKL5	64.0	910.6	C2E21_6288	Nitrate reductase.
+909	KAI7846334.1	3076.A0A2P6U4F7	95.1	1793.1	C2E21_0194	Phosphoenolpyruvate carboxylase.
+910	KAI7839918.1	3076.A0A2P6TC06	87.6	1152.1	C2E21_9233	Lysine-specific histone demethylase 1-like protein 1.
+911	KAI7845669.1	3076.A0A2P6U2K8	33.7	75.5	C2E21_1100	Ankyrin repeat isoform C.
+912	KAI7843294.1	3076.A0A2P6U2M8	92.0	1032.3	C2E21_0703	Malate synthase; Belongs to the malate synthase family.
+913	KAI7835509.1	3076.A0A2P6TLM6	89.6	671.8	C2E21_6213	Diacylglycerol acyltransferase.
+914	KAI7840636.1	3076.A0A2P6TNF1	96.5	671.8	C2E21_5690	Ferredoxin-NADP+ reductase.
+915	KAI7840796.1	3076.A0A2P6TS64	80.1	997.3	C2E21_4022	Serine threonine dehydratase.
+916	KAI7835816.1	3076.A0A2P6U3A6	98.6	988.4	C2E21_1155	Aspartyl-tRNA synthetase.
+917	KAI7843560.1	3076.A0A2P6TFC3	92.0	684.1	C2E21_8229	Heme peroxidase-related.
+918	KAI7842067.1	3076.A0A2P6TLZ8	98.7	744.6	C2E21_6009	Uroporphyrinogen decarboxylase; Belongs to the uroporphyrinogen decarboxylase family.
+919	KAI7839096.1	3076.A0A2P6TD62	71.6	1312.7	C2E21_8935	E3 ubiquitin-ligase HUWE1.
+920	KAI7841206.1	3076.A0A2P6TFX0	94.5	885.2	C2E21_7982	Tryptophan synthase.
+921	KAI7843215.1	3076.A0A2P6THR7	91.7	1053.9	C2E21_7298	AMP-binding isoform B.
+922	KAI7835543.1	3076.A0A2P6TQT8	85.1	424.5	C2E21_4575	Tryptophan synthase alpha chain; Belongs to the TrpA family.
+923	KAI7845382.1	3076.A0A2P6TEL0	97.8	872.1	C2E21_8506	Putative methionine--tRNA ligase; Belongs to the class-I aminoacyl-tRNA synthetase family.
+924	KAI7840830.1	3076.A0A2P6TLD7	89.1	815.8	C2E21_6459	Serine carboxypeptidase-like 25.
+925	KAI7843783.1	3076.A0A2P6TPW4	83.1	804.3	C2E21_4886	RNA-splicing ligase RtcB homolog; Catalytic subunit of the tRNA-splicing ligase complex that acts by directly joining spliced tRNA halves to mature-sized tRNAs by incorporating the precursor-derived splice junction phosphate into the mature tRNA as a canonical 3',5'-phosphodiester. May act as an RNA ligase with broad substrate specificity, and may function toward other RNAs; Belongs to the RtcB family.
+926	KAI7840750.1	3076.A0A2P6TDN6	95.6	1321.6	C2E21_8779	Cullin-4; Belongs to the cullin family.
+927	KAI7841580.1	3076.A0A2P6TWN7	86.1	1076.6	C2E21_2958	Ribokinase; Catalyzes the phosphorylation of ribose at O-5 in a reaction requiring ATP and magnesium. The resulting D-ribose-5-phosphate can then be used either for sythesis of nucleotides, histidine, and tryptophan, or as a component of the pentose phosphate pathway.
+928	KAI7844301.1	3076.A0A2P6TZ52	85.0	697.2	C2E21_2275	tRNA modification GTPase mitochondrial.
+929	KAI7836329.1	3076.A0A2P6TUD3	87.5	625.5	C2E21_3754	Serine threonine-kinase CTR1.
+929	KAI7836329.1	3076.A0A2P6TUD3	60.0	140.6	C2E21_3754	Serine threonine-kinase CTR1.
+930	KAI7836408.1	3076.A0A2P6TQ05	83.4	255.0	C2E21_4960	7,8-dihydroneopterin aldolase; Catalyzes the conversion of 7,8-dihydroneopterin to 6- hydroxymethyl-7,8-dihydropterin.
+931	KAI7840054.1	3076.A0A2P6TW09	84.7	254.2	C2E21_2738	Nucleoside diphosphate kinase.
+932	KAI7843877.1	3076.A0A2P6TPT7	81.0	935.6	C2E21_5239	Phosphofructokinase family isoform A.
+933	KAI7840088.1	3076.A0A2P6TVY0	95.2	610.5	C2E21_2710	2-oxoisovalerate dehydrogenase subunit beta mitochondrial.
+934	KAI7836640.1	3076.A0A2P6U1C8	94.5	830.1	C2E21_1765	3-oxoacyl-[acyl-carrier] mitochondrial; Belongs to the thiolase-like superfamily. Beta-ketoacyl-ACP synthases family.
+935	KAI7836675.1	3076.A0A2P6TKK3	96.3	583.2	C2E21_6737	Pyruvate dehydrogenase E1 component subunit beta; The pyruvate dehydrogenase complex catalyzes the overall conversion of pyruvate to acetyl-CoA and CO2.
+936	KAI7842609.1	3076.A0A2P6TT82	88.8	861.3	C2E21_4232	Phosphofructokinase family.
+937	KAI7842956.1	3076.A0A2P6TJX4	76.3	772.7	C2E21_6627	Pyruvate decarboxylase 4.
+938	KAI7837558.1	3076.A0A2P6U1R2	93.8	1152.5	C2E21_0915	LUTEIN DEFICIENT chloroplastic.
+939	KAI7845264.1	3076.A0A2P6TQY6	87.1	526.2	C2E21_4589	Aldo-keto reductase family 4 member C9-like.
+940	KAI7836923.1	3076.A0A2P6U3D0	85.3	533.5	C2E21_1127	Pyridoxine biosynthesis isoform B; Belongs to the PdxS/SNZ family.
+941	KAI7839689.1	3076.A0A2P6TYT7	90.3	903.3	C2E21_2662	ATP synthase subunit beta; Produces ATP from ADP in the presence of a proton gradient across the membrane.
+942	KAI7840682.1	3076.A0A2P6TR41	90.5	1083.6	C2E21_4619	ABC transporter F family member 4 isoform B.
+943	KAI7840866.1	3076.A0A2P6U0P3	83.0	421.8	C2E21_1797	Disulfide isomerase; Belongs to the protein disulfide isomerase family.
+944	KAI7841412.1	3076.A0A2P6TB88	99.7	762.3	C2E21_9476	Tyrosine-kinase isoform SRK1.
+945	KAI7843213.1	3076.A0A2P6THJ8	93.6	774.2	C2E21_7296	Mitochondrial.
+946	KAI7843965.1	3076.A0A2P6TPK8	85.2	971.8	C2E21_5165	P-loop containing nucleoside triphosphate hydrolase.
+947	KAI7839958.1	3076.A0A2P6TCC8	93.6	725.7	C2E21_9193	Uncharacterized protein.
+948	KAI7839808.1	3076.A0A2P6TGA1	85.6	983.4	C2E21_7943	Phosphate transporter; Sodium-phosphate symporter which plays a fundamental housekeeping role in phosphate transport. Belongs to the inorganic phosphate transporter (PiT) (TC 2.A.20) family.
+949	KAI7840151.1	3076.A0A2P6U016	92.8	968.4	C2E21_1380	UDP-N-acetylglucosamine diphosphorylase 2-like isoform A.
+951	KAI7839456.1	3076.A0A2P6TTL6	92.8	682.6	C2E21_4393	Phosphatidylinositol:ceramide inositolphosphotransferase 1 isoform B.
+952	KAI7843997.1	3076.A0A2P6TPG3	82.2	1109.7	C2E21_5151	Kinase.
+953	KAI7843551.1	3076.A0A2P6TFA3	91.9	379.8	C2E21_8237	3-oxoacyl-[acyl-carrier] reductase.
+954	KAI7843720.1	3076.A0A2P6TUS4	80.5	1212.6	C2E21_3450	Putative prolyl 4-hydroxylase 9.
+955	KAI7842590.1	3076.A0A2P6TT80	96.7	1006.5	C2E21_4212	Methionyl-tRNA synthetase; Belongs to the class-I aminoacyl-tRNA synthetase family.
+956	KAI7840705.1	3076.A0A2P6TQZ6	89.0	2794.2	C2E21_4639	Uracil-DNA glycosylase; Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine.
+957	KAI7838007.1	3076.A0A2P6U3J1	87.2	1797.3	C2E21_0638	Heavy metal P-type ATPase.
+958	KAI7840984.1	3076.A0A2P6U3I9	74.9	1660.6	C2E21_0234	Serine threonine-kinase CTR1; Belongs to the peptidase S1 family.
+959	KAI7845195.1	3076.A0A2P6TBP9	93.2	567.8	C2E21_9343	Malate glyoxysomal-like.
+960	KAI7842369.1	3076.A0A2P6TYY6	95.4	761.1	C2E21_2077	Acyl-[acyl-carrier] desaturase chloroplastic.
+961	KAI7846010.1	3076.A0A2P6TNU1	92.6	632.1	C2E21_5347	Protein-serine/threonine kinase.
+962	KAI7839387.1	3076.A0A2P6TZ49	98.5	777.3	C2E21_2468	Citrate synthase.
+963	KAI7842176.1	3076.A0A2P6TXK2	91.8	432.2	C2E21_2487	Dehydroascorbate reductase; Belongs to the GST superfamily.
+964	KAI7843895.1	3076.A0A2P6TQN3	96.4	788.5	C2E21_5223	Queuine tRNA-ribosyltransferase; Catalyzes the base-exchange of a guanine (G) residue with the queuine precursor 7-aminomethyl-7-deazaguanine (PreQ1) at position 34 (anticodon wobble position) in tRNAs with GU(N) anticodons (tRNA-Asp, - Asn, -His and -Tyr). Catalysis occurs through a double-displacement mechanism. The nucleophile active site attacks the C1' of nucleotide 34 to detach the guanine base from the RNA, forming a covalent enzyme-RNA intermediate. The proton acceptor active site deprotonates the incoming PreQ1, allowing a nucleophilic attack on the C1' of the ribose to form t [...] 
+965	KAI7839213.1	3076.A0A2P6TGY4	90.2	653.7	C2E21_7710	Fructose-1,6-cytosolic; Belongs to the FBPase class 1 family.
+966	KAI7836413.1	3076.A0A2P6TQK3	92.0	740.0	C2E21_4957	Putative rRNA methyltransferase; Probable methyltransferase involved in the maturation of rRNA and in the biogenesis of ribosomal subunits.
+967	KAI7844238.1	3076.A0A2P6TYX4	92.8	857.1	C2E21_2331	Chloroplast lycopene beta cyclase.
+968	KAI7836713.1	3076.A0A2P6TVV4	94.7	884.8	C2E21_3053	Jumonji domain-containing.
+969	KAI7840908.1	3076.A0A2P6U0F4	89.5	536.2	C2E21_1829	Alkene reductase.
+970	KAI7841900.1	3076.A0A2P6TZW2	96.9	1101.7	C2E21_1600	Phosphoglucomutase.
+971	KAI7846066.1	3076.A0A2P6TTI8	94.5	776.2	C2E21_3824	Glycosyltransferase LARGE2.
+972	KAI7839611.1	3076.A0A2P6TJL1	91.4	634.4	C2E21_6667	3-phosphoshikimate 1-carboxyvinyltransferase; Belongs to the EPSP synthase family.
+973	KAI7838626.1	3076.A0A2P6TR29	83.1	1617.4	C2E21_4650	Triacylglycerol lipase SDP1.
+974	KAI7838923.1	3076.A0A2P6TFC5	76.5	3154.4	C2E21_8307	Serine threonine-kinase CTR1.
+975	KAI7838815.1	3076.A0A2P6U5P9	91.2	969.1	C2E21_0109	Endoplasmic reticulum oxidoreductin 1.
+976	KAI7836054.1	3076.A0A2P6TST0	97.0	796.6	C2E21_4291	Lysine--tRNA ligase.
+977	KAI7841322.1	3076.A0A2P6TYJ6	95.3	660.6	C2E21_2380	NADPH-dependent thioredoxin reductase A.
+978	KAI7835549.1	3076.A0A2P6TMZ0	84.1	1714.9	C2E21_6033	Alpha-glucosidase isoform B.
+979	KAI7837385.1	3076.A0A2P6TB25	83.0	916.8	C2E21_9519	Phospholipid glycerol acyltransferase family.
+980	KAI7838303.1	3076.A0A2P6TKU7	96.7	1095.9	C2E21_6363	GMP synthase [glutamine-hydrolyzing].
+981	KAI7846431.1	3076.A0A2P6TNW7	89.4	891.0	C2E21_5443	Protoporphyrinogen oxidase chloroplastic.
+982	KAI7839448.1	3076.A0A2P6TST6	88.6	1548.1	C2E21_4390	Putative alpha,alpha-trehalose-phosphate synthase [UDP-forming] 7; Belongs to the Orn/Lys/Arg decarboxylase class-II family.
+983	KAI7837698.1	3076.A0A2P6TMA3	91.4	488.4	C2E21_5736	Beta-carotene hydroxylase; Belongs to the sterol desaturase family.
+984	KAI7843901.1	3076.A0A2P6TQN7	86.4	1135.2	C2E21_5217	Aspartate aminotransferase.
+985	KAI7838737.1	3076.A0A2P6TU89	93.2	1816.6	C2E21_3715	Plasma-membrane proton-efflux P-type ATPase isoform A; Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+986	KAI7845081.1	3076.A0A2P6TLF4	92.7	598.6	C2E21_6449	RNA pseudouridine synthase 5 isoform X2 isoform A.
+987	KAI7836379.1	3076.A0A2P6TZ96	89.6	772.3	C2E21_2627	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of ATP and thus represents the only step of substrate-level phosphorylation in the TCA. The beta subunit provides nucleotide specificity of the enzyme and binds the substrate succinate, while the binding sites for coenzyme A and phosphate are found in the alpha subunit.
+988	KAI7838296.1	3076.A0A2P6TKW1	76.3	1357.4	C2E21_6368	Cysteine synthase; Belongs to the cysteine synthase/cystathionine beta- synthase family.
+989	KAI7844654.1	3076.A0A2P6U0Q2	85.3	1344.3	C2E21_1934	Histidyl-tRNA synthetase isoform C.
+990	KAI7843303.1	3076.A0A2P6U365	82.9	1459.9	C2E21_0699	Zn2+-binding dehydrogenase.
+991	KAI7844207.1	3076.A0A2P6TTA7	90.0	471.9	C2E21_3887	Defective in cullin neddylation protein; Neddylation of cullins play an essential role in the regulation of SCF-type complexes activity.
+992	KAI7843883.1	3076.A0A2P6TQN4	82.0	1649.4	C2E21_5231	Phophatdylinositol 4-kinase; Belongs to the PI3/PI4-kinase family.
+993	KAI7843221.1	3076.A0A2P6TI34	80.4	2281.5	C2E21_7303	ABC transporter isoform B.
+994	KAI7844093.1	3076.A0A2P6TRI5	94.0	345.1	C2E21_4471	Domain-containing.
+995	KAI7843691.1	3076.A0A2P6TVE5	83.5	683.3	C2E21_3430	Mg-protoporphyrin IX chelatase; Involved in chlorophyll biosynthesis. Catalyzes the insertion of magnesium ion into protoporphyrin IX to yield Mg-protoporphyrin IX. Belongs to the Mg-chelatase subunits D/I family.
+996	KAI7840433.1	3076.A0A2P6TIU0	76.7	2561.2	C2E21_6932	Cytochrome P450 chloroplastic isoform B.
+997	KAI7840789.1	3076.A0A2P6TTH7	69.1	823.2	C2E21_4014	Alkylated DNA repair alkB-like protein 8.
+998	KAI7840579.1	3076.A0A2P6TEJ6	88.0	1562.4	C2E21_8434	Nitrate reductase.
+999	KAI7842465.1	3076.A0A2P6TP65	86.7	1431.0	C2E21_5500	Bifunctional aspartokinase homoserine dehydrogenase chloroplastic-like; Belongs to the CRISP family.
+1000	KAI7843295.1	3076.A0A2P6U2M8	86.9	1015.4	C2E21_0703	Malate synthase; Belongs to the malate synthase family.
+1001	KAI7837257.1	3076.A0A2P6TY18	97.4	799.7	C2E21_2028	Delta-1-pyrroline-5-carboxylate synthase B-like isoform X1.
+1002	KAI7837992.1	3076.A0A2P6U551	90.8	788.9	C2E21_0650	Glycerol-3-phosphate acyltransferase 3-like.
+1003	KAI7836143.1	3076.A0A2P6THL0	89.6	922.5	C2E21_7468	Serine carboxypeptidase; Belongs to the peptidase S10 family.
+1004	KAI7837115.1	3076.A0A2P6TZ91	92.5	431.0	C2E21_2342	6-phosphogluconate dehydrogenase, decarboxylating; Belongs to the 6-phosphogluconate dehydrogenase family.
+1005	KAI7841940.1	3076.A0A2P6U197	94.2	735.3	C2E21_1559	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit; Subunit of the oligosaccharyl transferase (OST) complex that catalyzes the initial transfer of a defined glycan (Glc(3)Man(9)GlcNAc(2) in eukaryotes) from the lipid carrier dolichol- pyrophosphate to an asparagine residue within an Asn-X-Ser/Thr consensus motif in nascent polypeptide chains, the first step in protein N-glycosylation. N-glycosylation occurs cotranslationally and the complex associates with the Sec61 complex at the channel-forming translocon complex that mediates protein translocation across t [...] 
+1006	KAI7842066.1	3076.A0A2P6TLZ8	92.4	715.3	C2E21_6009	Uroporphyrinogen decarboxylase; Belongs to the uroporphyrinogen decarboxylase family.
+1007	KAI7836386.1	3076.A0A2P6TZC4	88.8	1039.6	C2E21_2621	Type-II calcium-dependent NADH dehydrogenase isoform B.
+1008	KAI7836847.1	3076.A0A2P6TL84	68.6	1362.4	C2E21_6119	E3 ubiquitin-ligase UPL6.
+1009	KAI7842911.1	3076.A0A2P6TDT5	74.4	823.5	C2E21_8646	Amine oxidase.
+1010	KAI7840021.1	3076.A0A2P6TJZ7	94.8	632.9	C2E21_6638	Putative voltage-gated potassium channel subunit beta.
+1011	KAI7838314.1	3076.A0A2P6TKZ9	95.0	913.7	C2E21_6378	Putative phenylalanine--tRNA ligase alpha subunit.
+1012	KAI7837113.1	3076.A0A2P6TZ91	99.3	816.2	C2E21_2342	6-phosphogluconate dehydrogenase, decarboxylating; Belongs to the 6-phosphogluconate dehydrogenase family.
+1013	KAI7841390.1	3076.A0A2P6U1C6	92.4	1350.5	C2E21_1689	O-acyltransferase.
+1014	KAI7837925.1	3076.A0A2P6TKS4	61.6	531.9	C2E21_6342	Tyrosine--tRNA ligase.
+1015	KAI7838730.1	3076.A0A2P6TU66	86.3	417.9	C2E21_3736	Gamma carbonic anhydrase mitochondrial.
+1016	KAI7840880.1	3076.A0A2P6TZV7	88.3	776.2	C2E21_1807	3-ketoacyl-thiolase peroxisomal; Belongs to the thiolase-like superfamily. Thiolase family.
+1017	KAI7844436.1	3076.A0A2P6TTG2	97.5	543.1	C2E21_4328	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial; Iron-sulfur protein (IP) subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q).
+1018	KAI7843779.1	3076.A0A2P6TPY4	84.0	447.6	C2E21_4883	Coiled-coil domain-containing 61-like isoform X1.
+1019	KAI7844619.1	3076.A0A2P6U087	78.1	550.4	C2E21_1905	Choline ethanolamine kinase.
+1020	KAI7841895.1	3076.A0A2P6U083	85.9	2089.7	C2E21_1607	Lipoxygenase homology domain-containing 1 isoform B.
+1020	KAI7841895.1	3076.A0A2P6U083	100.0	52.0	C2E21_1607	Lipoxygenase homology domain-containing 1 isoform B.
+1021	KAI7838536.1	3076.A0A2P6TJF5	75.1	635.6	C2E21_7145	Geranyl diphosphate synthase; Belongs to the FPP/GGPP synthase family.
+1022	KAI7835796.1	3076.A0A2P6TR77	96.1	364.4	C2E21_4554	Gamma carbonic anhydrase-like mitochondrial.
+1023	KAI7841103.1	3076.A0A2P6TVQ0	90.6	805.8	C2E21_2762	Phosphoglycerate kinase; Belongs to the phosphoglycerate kinase family.
+1024	KAI7842935.1	3076.A0A2P6TJP6	89.2	382.5	C2E21_6607	2-cys peroxiredoxin.
+1025	KAI7840454.1	3076.A0A2P6TJ61	93.3	2530.4	C2E21_6945	ABC multidrug resistance associated.
+1026	KAI7836950.1	3076.A0A2P6TU02	88.3	968.8	C2E21_4182	Malic enzyme.
+1027	KAI7844023.1	3076.A0A2P6TYY7	67.3	255.4	C2E21_2586	Sulfatase.
+1028	KAI7842995.1	3076.A0A2P6THF3	81.1	294.3	C2E21_7530	Peptide-methionine (R)-S-oxide reductase; Catalyzes the reduction of methionine sulfoxide (MetSO) to methionine in proteins. Plays a protective role against oxidative stress by restoring activity to proteins that have been inactivated by methionine oxidation. MSRB family specifically reduces the MetSO R- enantiomer.
+1029	KAI7837687.1	3076.A0A2P6TMW9	87.4	805.8	C2E21_5719	NADH dehydrogenase.
+1030	KAI7836632.1	3076.A0A2P6U0R3	96.5	1359.4	C2E21_1772	Acetyl-coenzyme A synthetase.
+1031	KAI7838277.1	3076.A0A2P6TQL9	83.9	864.8	C2E21_4993	Aldehyde dehydrogenase; Belongs to the aldehyde dehydrogenase family.
+1032	KAI7838151.1	3076.A0A2P6TDB7	97.3	560.8	C2E21_8806	Dihydrolipoyl dehydrogenase.
+1033	KAI7842350.1	3076.A0A2P6TYW8	78.5	1145.6	C2E21_2099	NADH:ubiquinone oxidoreductase 24 kDa subunit.
