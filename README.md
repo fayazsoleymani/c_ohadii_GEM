@@ -8,6 +8,7 @@ Here, the project's directory structure is illustrated:
 c_ohadii_GEM
 ├── code
 │   ├── functions      # contains the implementation of the main functions
+|   ├── scripts        # includes the python scripts
 │   └── examples.m     # provides examples of how to use the functions
 ├── data               # the data, used or generated in the project
 ├── models             # the final conventional and enzyme-constrained GEMs
