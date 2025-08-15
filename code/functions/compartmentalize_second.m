@@ -82,7 +82,7 @@ function model= compartmentalize_second(model, modelType, lambda, ...
     % a rxn that can be present in the final model.     shape: (nGp, nDup)
     dupRxns= keys(dupInstancesDict);
     AGPMin= zeros(nDupRxns, nOrgRxns+nDupRxns);
-    AGPMax= zeros(nDupRxns, nDupRxns+nDupRxns);
+    AGPMax= zeros(nDupRxns, nOrgRxns+nDupRxns);
     AGPCount= zeros(nGp, nDupRxns);
 
     vDupMin= zeros(nDupRxns);
