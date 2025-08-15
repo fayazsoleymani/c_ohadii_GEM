@@ -1,5 +1,5 @@
 function biomassIndices= findBiomassIndices(model, verbose)
-    % finding the biomass reaction index #TODO
+    % finding the biomass reaction index
 
     if nargin < 2
         verbose= 0;
