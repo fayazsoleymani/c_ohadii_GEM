@@ -20,6 +20,18 @@ c_ohadii_GEM
 Ensure that you have [RAVEN](https://github.com/SysBioChalmers/RAVEN), [COBRA Toolbox](https://opencobra.github.io/cobratoolbox/stable/index.html), and the [GUROBI](https://www.gurobi.com/) optimizer installed on your device.
 
 ### Citation
-TODO
+```
+@article{https://doi.org/10.1111/nph.70528,
+author = {Soleymani, Fayaz and Correa, Sandra Marcela and Arend, Marius and Forghanisardaghi, Niayesh and Treves, Haim and Razaghi-Moghadam, Zahra and Nikoloski, Zoran},
+title = {Constraint-based metabolic modeling reveals metabolic properties underpinning the unprecedented growth of Chlorella ohadii},
+journal = {New Phytologist},
+volume = {n/a},
+number = {n/a},
+pages = {},
+keywords = {Chlorella ohadii, de novo model reconstruction, gene targets, genome-scale metabolic model, growth improvement, metabolic model comparison},
+doi = {https://doi.org/10.1111/nph.70528},
+url = {https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.70528},
+eprint = {https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.70528},
+```
 
 
