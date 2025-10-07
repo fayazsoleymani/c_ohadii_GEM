@@ -23,7 +23,7 @@ function model= addMetsAnnotations(model, annotationFile)
             end
             if ~isempty(mappingTable.BIGG{i})
                 model = addMIRIAMAnnotations(model, model.mets(metIndex),...
-                    'bigg.metabolite' , mappingcTable.BIGG(i));
+                    'bigg.metabolite' , mappingTable.BIGG(i));
             end
             if num2str(mappingTable.ChemSpider(i)) ~= "NaN"
                 model = addMIRIAMAnnotations(model, model.mets(metIndex),...
